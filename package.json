@@ -1,0 +1,15 @@
+{
+  "name": "hanzi",
+  "version": "1.0.0",
+  "description": "Scrapes thousands of Chinese characters from https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lewis Moronta",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

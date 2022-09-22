@@ -1,0 +1,5002 @@
+[
+  {
+    "hanzi": "文艺",
+    "pinyin": "wényì",
+    "definition": "literature and art"
+  },
+  {
+    "hanzi": "沿途",
+    "pinyin": "yántú",
+    "definition": "on the way, throughout a journey"
+  },
+  {
+    "hanzi": "招待",
+    "pinyin": "zhāodài",
+    "definition": "receive (guests), serve (customers)"
+  },
+  {
+    "hanzi": "架设",
+    "pinyin": "jiàshè",
+    "definition": "erect (on stilts/posts)"
+  },
+  {
+    "hanzi": "招待",
+    "pinyin": "zhāodài",
+    "definition": "receive (guests), serve (customers)"
+  },
+  {
+    "hanzi": "长官",
+    "pinyin": "zhǎngguān",
+    "definition": "official, principal, senior, superordinate, chief, commanding official, prefect, senior officer, president, higher-up, magistrate, ephor, superior, superintendent, commanding officer, director, governor, syndic, senior/commanding officer/official, chancellor"
+  },
+  {
+    "hanzi": "师傅",
+    "pinyin": "shīfù",
+    "definition": "emperor, tutor of king, tutor of emperor, professional, address for service workers, master, general term of address in late 7 0 s an, general term of address in late 70s and 80s, master worker, tutor of king/emperor"
+  },
+  {
+    "hanzi": "哲学家",
+    "pinyin": "zhéxuéjiā",
+    "definition": "philosopher"
+  },
+  {
+    "hanzi": "夏威夷",
+    "pinyin": "xiàwēiyí",
+    "definition": "Aloha State, Hawaii, Hawai'i, HI"
+  },
+  {
+    "hanzi": "放置",
+    "pinyin": "fàngzhì",
+    "definition": "dispose, feed, set, locate, go, plant, pose, sit, lay, stick, shove, repose, bestow, sock, lay aside, perch, put, position, deposit, depose, get, lay up, mount, place, localize"
+  },
+  {
+    "hanzi": "沈重",
+    "pinyin": "chénzhòng",
+    "definition": "heavy, serious"
+  },
+  {
+    "hanzi": "泥土",
+    "pinyin": "nítǔ",
+    "definition": "dirt, muck, earth, marl, soil, soli, clay, clart"
+  },
+  {
+    "hanzi": "卷",
+    "pinyin": "juàn",
+    "definition": "volume, coil, furl, roll, spool, documents, m.[general], ,part, data file, tome, reel, book, examination paper, cylindrical mass of something, file, dossier"
+  },
+  {
+    "hanzi": "自我",
+    "pinyin": "zìwǒ",
+    "definition": "stick to one's own way of doing things"
+  },
+  {
+    "hanzi": "见解",
+    "pinyin": "jiànjiě",
+    "definition": "eyeshot, view, horizon, understanding, outlook, light, eyes, spectacle, judgment, sentiment, eyesight, opinion, thought, sight, standpoint, bet, hypothesis, eye, viewpoint, theory, possibility, judgement, slant, doxy, purview, ruling, thinking, supposal, position, persuasion, mind"
+  },
+  {
+    "hanzi": "定期",
+    "pinyin": "dìngqí",
+    "definition": "periodical, regular"
+  },
+  {
+    "hanzi": "推销",
+    "pinyin": "tuīxiāo",
+    "definition": "promote sale of, peddle"
+  },
+  {
+    "hanzi": "里长",
+    "pinyin": "lǐzhǎng",
+    "definition": "head of a neighborhood of 25 families, precinct head"
+  },
+  {
+    "hanzi": "善良",
+    "pinyin": "shànliáng",
+    "definition": "good and kind, decent"
+  },
+  {
+    "hanzi": "余",
+    "pinyin": "yū",
+    "definition": "det.: odd, plus"
+  },
+  {
+    "hanzi": "遗迹",
+    "pinyin": "yíjī",
+    "definition": "traces, site, hangover, remains, shadow, vestigium, relic, historical remains, vestiges, trace, vestige, monument, remnant"
+  },
+  {
+    "hanzi": "演说",
+    "pinyin": "yǎnshuō",
+    "definition": "speech, address"
+  },
+  {
+    "hanzi": "税",
+    "pinyin": "shuì",
+    "definition": "droit, tax, geld, due, scot, exaction, capital levy, gabelle, duty, taxation, revenue enhancement"
+  },
+  {
+    "hanzi": "经销",
+    "pinyin": "jīngxiāo",
+    "definition": "sell on commission, sell"
+  },
+  {
+    "hanzi": "遊乐",
+    "pinyin": "yóulè",
+    "definition": "amuse oneself, have fun"
+  },
+  {
+    "hanzi": "麻醉",
+    "pinyin": "mázuì",
+    "definition": "anesthesize, poison, drug"
+  },
+  {
+    "hanzi": "评审",
+    "pinyin": "píngshěn",
+    "definition": "judge, referee, umpire"
+  },
+  {
+    "hanzi": "董事会",
+    "pinyin": "dǒngshìhuì",
+    "definition": "board, board of directors, board of administration, syndicate, directorate, board of regents, board of trustees, board_of_directors, directory"
+  },
+  {
+    "hanzi": "病情",
+    "pinyin": "bìngqíng",
+    "definition": "patient's condition"
+  },
+  {
+    "hanzi": "善良",
+    "pinyin": "shànliáng",
+    "definition": "good and kind, decent"
+  },
+  {
+    "hanzi": "数位",
+    "pinyin": "shùwèi",
+    "definition": "digital"
+  },
+  {
+    "hanzi": "勇于",
+    "pinyin": "yǒngyū",
+    "definition": "be bold in, have the courage to, have courage to, be brave in"
+  },
+  {
+    "hanzi": "商量",
+    "pinyin": "shāngliáng",
+    "definition": "talk, consult, arrange, confer, talk over, discussion, advise, discuss, concert"
+  },
+  {
+    "hanzi": "繁华",
+    "pinyin": "fánhuá",
+    "definition": "flourishing, bustling, busy"
+  },
+  {
+    "hanzi": "章程",
+    "pinyin": "zhāngchéng",
+    "definition": "constitution, rules, charter, rule, regulation, code, regulations, solution, statute, law, contract, procedure, way, memorandum, prospectus"
+  },
+  {
+    "hanzi": "清新",
+    "pinyin": "qīngxīn",
+    "definition": "pure and fresh, refreshing (of style/fashion/etc.)"
+  },
+  {
+    "hanzi": "强人",
+    "pinyin": "qiángrén",
+    "definition": "Big Brother, strong man, strongman, big_brother, highwaymen, robbers, powerful person"
+  },
+  {
+    "hanzi": "降价",
+    "pinyin": "jiàngjià",
+    "definition": "lower prices"
+  },
+  {
+    "hanzi": "降价",
+    "pinyin": "jiàngjià",
+    "definition": "lower prices"
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "nǎér",
+    "definition": "where"
+  },
+  {
+    "hanzi": "致使",
+    "pinyin": "zhìshǐ",
+    "definition": "become, render, go, get, result in, cause, make"
+  },
+  {
+    "hanzi": "内外",
+    "pinyin": "nèiwài",
+    "definition": "inside and outside, domestic and foreign"
+  },
+  {
+    "hanzi": "明明",
+    "pinyin": "míngmíng",
+    "definition": "obviously, plainly"
+  },
+  {
+    "hanzi": "院方",
+    "pinyin": "yuànfāng",
+    "definition": "hospital authorities"
+  },
+  {
+    "hanzi": "员警",
+    "pinyin": "yuánjǐng",
+    "definition": "policeman"
+  },
+  {
+    "hanzi": "金门",
+    "pinyin": "jīnmén",
+    "definition": "Chinmen, Kinmen (County in Taiwan)"
+  },
+  {
+    "hanzi": "耶稣",
+    "pinyin": "yēsū",
+    "definition": "Galilean, Jesus, cross"
+  },
+  {
+    "hanzi": "倒",
+    "pinyin": "dǎo",
+    "definition": "fall over, topple, collapse"
+  },
+  {
+    "hanzi": "收拾",
+    "pinyin": "shōushí",
+    "definition": "put in order, tidy up"
+  },
+  {
+    "hanzi": "自觉",
+    "pinyin": "zìjué",
+    "definition": "be conscious/aware"
+  },
+  {
+    "hanzi": "形",
+    "pinyin": "xíng",
+    "definition": "form, shape, body, entity"
+  },
+  {
+    "hanzi": "老板",
+    "pinyin": "lǎobǎn",
+    "definition": "proprietor, chief, shopkeeper, Tuan, baas, honcho, hirer, storekeeper, milord, mugwump, cit, market keeper, buckra, governor, boss, joss, tradesman, employer, guv"
+  },
+  {
+    "hanzi": "老年",
+    "pinyin": "lǎonián",
+    "definition": "senescence, caducity, senility, old_age, agedness, hoariness, age, old age"
+  },
+  {
+    "hanzi": "候鸟",
+    "pinyin": "hòuniǎo",
+    "definition": "visitant, bird of passage, bird_of_passage, migrator, migrant, migratory bird, visitor"
+  },
+  {
+    "hanzi": "踢",
+    "pinyin": "tī",
+    "definition": "shin, spurn, drop-kick, prick, boot, kick, toe, dropkick, play, lunge, punt"
+  },
+  {
+    "hanzi": "反复",
+    "pinyin": "fǎnfù",
+    "definition": "repeatedly, backward_and_forward"
+  },
+  {
+    "hanzi": "力气",
+    "pinyin": "lìqì",
+    "definition": "physical strength, effort"
+  },
+  {
+    "hanzi": "不法",
+    "pinyin": "bùfǎ",
+    "definition": "lawless, illegal"
+  },
+  {
+    "hanzi": "不惜",
+    "pinyin": "bùxí",
+    "definition": "not stint, not hesitate (to do sth.)"
+  },
+  {
+    "hanzi": "营收",
+    "pinyin": "yíngshōu",
+    "definition": "income( of business)"
+  },
+  {
+    "hanzi": "福建",
+    "pinyin": "fújiàn",
+    "definition": "Fujian, Fujian (province), Fukien"
+  },
+  {
+    "hanzi": "宽广",
+    "pinyin": "kuānguǎng",
+    "definition": "wide, vast, extensive, broad"
+  },
+  {
+    "hanzi": "总和",
+    "pinyin": "zǒnghé",
+    "definition": "sum, total, sum total"
+  },
+  {
+    "hanzi": "瓶颈",
+    "pinyin": "píngjǐng",
+    "definition": "bottleneck"
+  },
+  {
+    "hanzi": "县政府",
+    "pinyin": "xiànzhèngfǔ",
+    "definition": "county government"
+  },
+  {
+    "hanzi": "通",
+    "pinyin": "tōng",
+    "definition": "m.[event]"
+  },
+  {
+    "hanzi": "尽力",
+    "pinyin": "jìnlì",
+    "definition": "do_one's_best, do all one can, render, take pains, be at pains, take_pains, stretch, strain, strive, try one's best"
+  },
+  {
+    "hanzi": "繁华",
+    "pinyin": "fánhuá",
+    "definition": "flourishing, bustling, busy"
+  },
+  {
+    "hanzi": "减肥",
+    "pinyin": "jiǎnféi",
+    "definition": "lose weight"
+  },
+  {
+    "hanzi": "等候",
+    "pinyin": "děnghòu",
+    "definition": "hold back, wait, look, expect, abide, await, hold off, tarry, expectation, hang_on"
+  },
+  {
+    "hanzi": "围墙",
+    "pinyin": "wéiqiáng",
+    "definition": "enclosing wall"
+  },
+  {
+    "hanzi": "队员",
+    "pinyin": "duìyuán",
+    "definition": "team member"
+  },
+  {
+    "hanzi": "农历",
+    "pinyin": "nónglì",
+    "definition": "farmer's_calendar, lunar calendar, lunar_calendar"
+  },
+  {
+    "hanzi": "减肥",
+    "pinyin": "jiǎnféi",
+    "definition": "lose weight"
+  },
+  {
+    "hanzi": "电玩",
+    "pinyin": "diànwán",
+    "definition": "computer game"
+  },
+  {
+    "hanzi": "增添",
+    "pinyin": "zēngtiān",
+    "definition": "increase, accession, throw in, point_up, add, subjoin, addition, lend"
+  },
+  {
+    "hanzi": "扩展",
+    "pinyin": "kuòzhǎn",
+    "definition": "expand, spread, extend"
+  },
+  {
+    "hanzi": "心理学",
+    "pinyin": "xīnlǐxué",
+    "definition": "psychology"
+  },
+  {
+    "hanzi": "镇",
+    "pinyin": "zhèn",
+    "definition": "town, garrison post, trading center"
+  },
+  {
+    "hanzi": "齣",
+    "pinyin": "chū",
+    "definition": "play, m.[event],"
+  },
+  {
+    "hanzi": "舆论",
+    "pinyin": "yūlùn",
+    "definition": "sense, vox_populi, popular opinion, public opinion, opinion, public_opinion, consensus, vox populi"
+  },
+  {
+    "hanzi": "编辑",
+    "pinyin": "biānjí",
+    "definition": "editor, compiler"
+  },
+  {
+    "hanzi": "发电",
+    "pinyin": "fādiàn",
+    "definition": "electricity generation, generate electricity"
+  },
+  {
+    "hanzi": "创造出",
+    "pinyin": "chuàngzàochū",
+    "definition": "create"
+  },
+  {
+    "hanzi": "悲哀",
+    "pinyin": "bēiāi",
+    "definition": "grieved, sorrowful"
+  },
+  {
+    "hanzi": "扩展",
+    "pinyin": "kuòzhǎn",
+    "definition": "expand, spread, extend"
+  },
+  {
+    "hanzi": "义卖",
+    "pinyin": "yìmài",
+    "definition": "sell something for public welfare"
+  },
+  {
+    "hanzi": "悲观",
+    "pinyin": "bēiguān",
+    "definition": "pessimistic"
+  },
+  {
+    "hanzi": "装置",
+    "pinyin": "zhuāngzhì",
+    "definition": "install, fit"
+  },
+  {
+    "hanzi": "装置",
+    "pinyin": "zhuāngzhì",
+    "definition": "install, fit"
+  },
+  {
+    "hanzi": "买卖",
+    "pinyin": "mǎimài",
+    "definition": "buying and selling, business deal/transaction, (small) merchant enterprise"
+  },
+  {
+    "hanzi": "义卖",
+    "pinyin": "yìmài",
+    "definition": "sell something for public welfare"
+  },
+  {
+    "hanzi": "管教",
+    "pinyin": "guǎnjiào",
+    "definition": "subject sb. to discipline, restrain and instruct"
+  },
+  {
+    "hanzi": "静",
+    "pinyin": "jìng",
+    "definition": "still, quiet, calm"
+  },
+  {
+    "hanzi": "新知",
+    "pinyin": "xīnzhī",
+    "definition": "new knowledge/learning"
+  },
+  {
+    "hanzi": "舞会",
+    "pinyin": "wǔhuì",
+    "definition": "kickup, fandango, ball, debut, dance, promenade, dance (party), shindig, prom"
+  },
+  {
+    "hanzi": "悲哀",
+    "pinyin": "bēiāi",
+    "definition": "grieved, sorrowful"
+  },
+  {
+    "hanzi": "寝室",
+    "pinyin": "qǐnshì",
+    "definition": "bedchamber, sleeping room, roost, chamber, dormitory, bower, lying, bedroom"
+  },
+  {
+    "hanzi": "管教",
+    "pinyin": "guǎnjiào",
+    "definition": "subject sb. to discipline, restrain and instruct"
+  },
+  {
+    "hanzi": "遴选",
+    "pinyin": "línxuǎn",
+    "definition": "select (sb. for a post)"
+  },
+  {
+    "hanzi": "广东",
+    "pinyin": "guǎngdōng",
+    "definition": "Kwangtung, Guangdong, Guangdong province"
+  },
+  {
+    "hanzi": "遴选",
+    "pinyin": "línxuǎn",
+    "definition": "select (sb. for a post)"
+  },
+  {
+    "hanzi": "检察官",
+    "pinyin": "jiǎncháguān",
+    "definition": "public prosecutor"
+  },
+  {
+    "hanzi": "予",
+    "pinyin": "yǔ",
+    "definition": "give"
+  },
+  {
+    "hanzi": "手臂",
+    "pinyin": "shǒubì",
+    "definition": "arm"
+  },
+  {
+    "hanzi": "一家人",
+    "pinyin": "yìjiārén",
+    "definition": "house"
+  },
+  {
+    "hanzi": "心头",
+    "pinyin": "xīntóu",
+    "definition": "mind, heart"
+  },
+  {
+    "hanzi": "土壤",
+    "pinyin": "tǔrǎng",
+    "definition": "soil"
+  },
+  {
+    "hanzi": "大厅",
+    "pinyin": "dàtīng",
+    "definition": "big/main hall, parlor"
+  },
+  {
+    "hanzi": "检索",
+    "pinyin": "jiǎnsuǒ",
+    "definition": "retrieve, research"
+  },
+  {
+    "hanzi": "南北",
+    "pinyin": "nánběi",
+    "definition": "north and south, from east to west, north-south"
+  },
+  {
+    "hanzi": "怀孕",
+    "pinyin": "huáiyùn",
+    "definition": "gravid, expect, in a family way, with child, pregnant, be pregnant, gestate, impregnate, carry, bear, carry to term, be expecting, conceive"
+  },
+  {
+    "hanzi": "顾",
+    "pinyin": "gù",
+    "definition": "turn round and look at, attend to, look after, take into consideration, visit, call on"
+  },
+  {
+    "hanzi": "医药",
+    "pinyin": "yīyào",
+    "definition": "medicament, medicine, curative, medication, remedy, physic"
+  },
+  {
+    "hanzi": "印刷",
+    "pinyin": "yìnshuā",
+    "definition": "print"
+  },
+  {
+    "hanzi": "志愿",
+    "pinyin": "zhìyuàn",
+    "definition": "aspiration, wish, ideal"
+  },
+  {
+    "hanzi": "列",
+    "pinyin": "liè",
+    "definition": "arrange, line up, list, enter in a list"
+  },
+  {
+    "hanzi": "肝",
+    "pinyin": "gān",
+    "definition": "hepatic, liver"
+  },
+  {
+    "hanzi": "印刷",
+    "pinyin": "yìnshuā",
+    "definition": "print"
+  },
+  {
+    "hanzi": "替代",
+    "pinyin": "tìdài",
+    "definition": "replace, supervene upon, replacement, supersede, substitute for, alternate, substitute, supersession, displace, supplant"
+  },
+  {
+    "hanzi": "使命",
+    "pinyin": "shǐmìng",
+    "definition": "vocation, calling, military mission, mission, embassy, errand"
+  },
+  {
+    "hanzi": "恶劣",
+    "pinyin": "èliè",
+    "definition": "vile, nasty"
+  },
+  {
+    "hanzi": "研判",
+    "pinyin": "yánpàn",
+    "definition": "infer"
+  },
+  {
+    "hanzi": "研判",
+    "pinyin": "yánpàn",
+    "definition": "infer"
+  },
+  {
+    "hanzi": "长远",
+    "pinyin": "chángyuǎn",
+    "definition": "long-range, long, long-term, far-reaching"
+  },
+  {
+    "hanzi": "叶子",
+    "pinyin": "yèzi5",
+    "definition": "foliage, frond, leafage, leaf, leave"
+  },
+  {
+    "hanzi": "恶劣",
+    "pinyin": "èliè",
+    "definition": "vile, nasty"
+  },
+  {
+    "hanzi": "男士",
+    "pinyin": "nánshì",
+    "definition": "gent, man, men, menfolk"
+  },
+  {
+    "hanzi": "悲观",
+    "pinyin": "bēiguān",
+    "definition": "pessimistic"
+  },
+  {
+    "hanzi": "郊区",
+    "pinyin": "jiāoqū",
+    "definition": "suburban district, outskirts"
+  },
+  {
+    "hanzi": "准备好",
+    "pinyin": "zhǔnbèihǎo",
+    "definition": "get ready"
+  },
+  {
+    "hanzi": "祭典",
+    "pinyin": "jìdiǎn",
+    "definition": "memorial services, fiesta, sacrificial rites"
+  },
+  {
+    "hanzi": "脱",
+    "pinyin": "tuō",
+    "definition": "cast/come off, shed, take off, escape from"
+  },
+  {
+    "hanzi": "情事",
+    "pinyin": "qíngshì",
+    "definition": "affair, matter, thing, business"
+  },
+  {
+    "hanzi": "理",
+    "pinyin": "lǐ",
+    "definition": "take notice of, pay attention to"
+  },
+  {
+    "hanzi": "持股",
+    "pinyin": "chígǔ",
+    "definition": "own stock"
+  },
+  {
+    "hanzi": "面",
+    "pinyin": "miàn",
+    "definition": "entire area (as opposed to particular points), surface, top, cover, face"
+  },
+  {
+    "hanzi": "油价",
+    "pinyin": "yóujià",
+    "definition": "oil/gasoline/petrol price"
+  },
+  {
+    "hanzi": "众",
+    "pinyin": "zhòng",
+    "definition": "every"
+  },
+  {
+    "hanzi": "祇",
+    "pinyin": "zhǐ",
+    "definition": "only"
+  },
+  {
+    "hanzi": "宝贝",
+    "pinyin": "bǎobèi",
+    "definition": "treasured object, treasure, darling, baby, cowry, good-for-nothing, odd character"
+  },
+  {
+    "hanzi": "可行性",
+    "pinyin": "kěxíngxìng",
+    "definition": "feasibility"
+  },
+  {
+    "hanzi": "平行",
+    "pinyin": "píngxíng",
+    "definition": "of equal rank, parallel, simultaneous"
+  },
+  {
+    "hanzi": "手脚",
+    "pinyin": "shǒujiǎo",
+    "definition": "hand and foot, motions (of hands/feet), underhand method, trick"
+  },
+  {
+    "hanzi": "主机板",
+    "pinyin": "zhǔjībǎn",
+    "definition": "mother_board"
+  },
+  {
+    "hanzi": "宝",
+    "pinyin": "bǎo",
+    "definition": "treasure"
+  },
+  {
+    "hanzi": "山水",
+    "pinyin": "shānshuǐ",
+    "definition": "mountains and water, landscape, landscape painting"
+  },
+  {
+    "hanzi": "响起",
+    "pinyin": "xiǎngqǐ",
+    "definition": "ring_out, ring out, speak, sound, start to ring"
+  },
+  {
+    "hanzi": "蓝色",
+    "pinyin": "lánsè",
+    "definition": "blue, blue (color), blueness"
+  },
+  {
+    "hanzi": "钟头",
+    "pinyin": "zhōngtóu",
+    "definition": "hour"
+  },
+  {
+    "hanzi": "纾解",
+    "pinyin": "shūjiě",
+    "definition": "ease, relieve"
+  },
+  {
+    "hanzi": "重",
+    "pinyin": "zhòng",
+    "definition": "value, put emphasis/stress on"
+  },
+  {
+    "hanzi": "青",
+    "pinyin": "qīng",
+    "definition": "nature's color, green, blue, greenish black"
+  },
+  {
+    "hanzi": "急救",
+    "pinyin": "jíjiù",
+    "definition": "first aid, emergency treatment"
+  },
+  {
+    "hanzi": "表决",
+    "pinyin": "biǎojué",
+    "definition": "(decide by) vote"
+  },
+  {
+    "hanzi": "相差",
+    "pinyin": "xiāngchā",
+    "definition": "differ"
+  },
+  {
+    "hanzi": "探亲",
+    "pinyin": "tànqīn",
+    "definition": "go home to visit one's family, visit family, go to visit one's relatives"
+  },
+  {
+    "hanzi": "阻碍",
+    "pinyin": "zǔài",
+    "definition": "hinder, block, impede, bar"
+  },
+  {
+    "hanzi": "表决",
+    "pinyin": "biǎojué",
+    "definition": "(decide by) vote"
+  },
+  {
+    "hanzi": "消灭",
+    "pinyin": "xiāomiè",
+    "definition": "eradicate, die out, eliminate, abolish, wipe out, annihilate, kill, slake, decimate, carry off, disappear, exterminate, lapse, expunge, abolition, knock out, quell, destroy, pass away, kill off, deafen, extermination, detruncate, liquidate, snuff_out, snuff out, extirpate, snuff, elimination, perish, discreate, vanish, extinguish"
+  },
+  {
+    "hanzi": "透明",
+    "pinyin": "tòumíng",
+    "definition": "diaphanous, see-through, crystalline, transparent"
+  },
+  {
+    "hanzi": "连络",
+    "pinyin": "liánluò",
+    "definition": "contact"
+  },
+  {
+    "hanzi": "连络",
+    "pinyin": "liánluò",
+    "definition": "contact"
+  },
+  {
+    "hanzi": "追逐",
+    "pinyin": "zhuīzhú",
+    "definition": "pursue, chase, seek"
+  },
+  {
+    "hanzi": "不可或缺",
+    "pinyin": "bùkěhuòquē",
+    "definition": "indispensable"
+  },
+  {
+    "hanzi": "急救",
+    "pinyin": "jíjiù",
+    "definition": "first aid, emergency treatment"
+  },
+  {
+    "hanzi": "同",
+    "pinyin": "tóng",
+    "definition": "be same as"
+  },
+  {
+    "hanzi": "壮",
+    "pinyin": "zhuàng",
+    "definition": "strong, make better, sturdy, magnificent, robust, make stronger, strengthen, make better/stronger"
+  },
+  {
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "definition": "always (doing sth.), for a long time, very"
+  },
+  {
+    "hanzi": "来回",
+    "pinyin": "láihuí",
+    "definition": "go to a place and come back, make a round trip, make a return journey, move to and fro, move back and forth, go to and fro"
+  },
+  {
+    "hanzi": "君子",
+    "pinyin": "jūnzǐ",
+    "definition": "a man of noble character, man of noble character, gentleman, man of worth, sovereign"
+  },
+  {
+    "hanzi": "放学",
+    "pinyin": "fàngxué",
+    "definition": "have winter holidays, classes are over, finish classes, have summer holidays, finish classes (for the day)"
+  },
+  {
+    "hanzi": "判决",
+    "pinyin": "pànjué",
+    "definition": "adjudge"
+  },
+  {
+    "hanzi": "射",
+    "pinyin": "shè",
+    "definition": "loose, discharge in a jet, insinuate, go off, allude to, discharge, send out, fire, firing, shooting, emit, deliver, shoot"
+  },
+  {
+    "hanzi": "合",
+    "pinyin": "hé",
+    "definition": "be equal to, amount to"
+  },
+  {
+    "hanzi": "东海",
+    "pinyin": "dōnghǎi",
+    "definition": "East China Sea, Donghai Sea"
+  },
+  {
+    "hanzi": "流浪",
+    "pinyin": "liúlàng",
+    "definition": "lead vagrant life"
+  },
+  {
+    "hanzi": "阻碍",
+    "pinyin": "zǔài",
+    "definition": "hinder, block, impede, bar"
+  },
+  {
+    "hanzi": "流浪",
+    "pinyin": "liúlàng",
+    "definition": "lead vagrant life"
+  },
+  {
+    "hanzi": "孩童",
+    "pinyin": "háitóng",
+    "definition": "children"
+  },
+  {
+    "hanzi": "穿上",
+    "pinyin": "chuānshàng",
+    "definition": "assume, wear, put_on, slip, enclothe, put on"
+  },
+  {
+    "hanzi": "异议",
+    "pinyin": "yìyì",
+    "definition": "remonstrance, dissent, expostulation, exception, dissidence, protestation, demur, objection, demurrer"
+  },
+  {
+    "hanzi": "判决",
+    "pinyin": "pànjué",
+    "definition": "adjudge"
+  },
+  {
+    "hanzi": "整整",
+    "pinyin": "zhěngzhěng",
+    "definition": "fully, full, whole"
+  },
+  {
+    "hanzi": "心境",
+    "pinyin": "xīnjìng",
+    "definition": "state/frame of mind, mood"
+  },
+  {
+    "hanzi": "荣总",
+    "pinyin": "róngzǒng",
+    "definition": "Veterans General Hospital"
+  },
+  {
+    "hanzi": "纾解",
+    "pinyin": "shūjiě",
+    "definition": "ease, relieve"
+  },
+  {
+    "hanzi": "优雅",
+    "pinyin": "yōuyǎ",
+    "definition": "graceful, elegant, gracious"
+  },
+  {
+    "hanzi": "驾驶",
+    "pinyin": "jiàshǐ",
+    "definition": "drive (vehicle), pilot (ship/plane)"
+  },
+  {
+    "hanzi": "录音",
+    "pinyin": "lùyīn",
+    "definition": "record sound"
+  },
+  {
+    "hanzi": "图像",
+    "pinyin": "túxiàng",
+    "definition": "picture, graph, icon, image"
+  },
+  {
+    "hanzi": "检视",
+    "pinyin": "jiǎnshì",
+    "definition": "overlook"
+  },
+  {
+    "hanzi": "遗忘",
+    "pinyin": "yíwàng",
+    "definition": "misplace, bury, neglect, leave behind, escape, leave, elude, mislay, leave_behind, forget"
+  },
+  {
+    "hanzi": "检视",
+    "pinyin": "jiǎnshì",
+    "definition": "overlook"
+  },
+  {
+    "hanzi": "钢",
+    "pinyin": "gāng",
+    "definition": "steel"
+  },
+  {
+    "hanzi": "实例",
+    "pinyin": "shílì",
+    "definition": "example, exemplar, specimen, deuce, instance, concrete example"
+  },
+  {
+    "hanzi": "优雅",
+    "pinyin": "yōuyǎ",
+    "definition": "graceful, elegant, gracious"
+  },
+  {
+    "hanzi": "山林",
+    "pinyin": "shānlín",
+    "definition": "mountain forest"
+  },
+  {
+    "hanzi": "录音",
+    "pinyin": "lùyīn",
+    "definition": "record sound"
+  },
+  {
+    "hanzi": "烦恼",
+    "pinyin": "fánnǎo",
+    "definition": "vexed, worried"
+  },
+  {
+    "hanzi": "追逐",
+    "pinyin": "zhuīzhú",
+    "definition": "pursue, chase, seek"
+  },
+  {
+    "hanzi": "爱丁堡",
+    "pinyin": "àidīngbǎo",
+    "definition": "Edinburgh"
+  },
+  {
+    "hanzi": "期盼",
+    "pinyin": "qípàn",
+    "definition": "look forward to"
+  },
+  {
+    "hanzi": "期盼",
+    "pinyin": "qípàn",
+    "definition": "look forward to"
+  },
+  {
+    "hanzi": "菩萨",
+    "pinyin": "púsà",
+    "definition": "Buddhist idol, a term applied to a kindhearted person, kindhearted person, Bodhisattva, joss, Buddha, Boddhisatva"
+  },
+  {
+    "hanzi": "驾驶",
+    "pinyin": "jiàshǐ",
+    "definition": "drive (vehicle), pilot (ship/plane)"
+  },
+  {
+    "hanzi": "距",
+    "pinyin": "jù",
+    "definition": "be apart/away from"
+  },
+  {
+    "hanzi": "说服",
+    "pinyin": "shuìfú",
+    "definition": "persuade, talk sb. over"
+  },
+  {
+    "hanzi": "装饰",
+    "pinyin": "zhuāngshì",
+    "definition": "ornament"
+  },
+  {
+    "hanzi": "越南",
+    "pinyin": "yuènán",
+    "definition": "Viet Nam, Vietnam, nam, Annam"
+  },
+  {
+    "hanzi": "象",
+    "pinyin": "xiàng",
+    "definition": "elephant"
+  },
+  {
+    "hanzi": "说服",
+    "pinyin": "shuìfú",
+    "definition": "persuade, talk sb. over"
+  },
+  {
+    "hanzi": "饼",
+    "pinyin": "bǐng",
+    "definition": "round flat cake, dumpling, pancake, tortilla, goody, cake, sth. shaped like a cake, a round flat cake"
+  },
+  {
+    "hanzi": "总公司",
+    "pinyin": "zǒnggōngsī",
+    "definition": "main office, home office, headquaters, head office, main_office, home_office, front office, central office, headquarters"
+  },
+  {
+    "hanzi": "极力",
+    "pinyin": "jílì",
+    "definition": "sparing no effort, spare no effort, doing one's utmost, do one's utmost to"
+  },
+  {
+    "hanzi": "大赛",
+    "pinyin": "dàsài",
+    "definition": "race, game, tournament, contest"
+  },
+  {
+    "hanzi": "失落",
+    "pinyin": "shīluò",
+    "definition": "lose"
+  },
+  {
+    "hanzi": "观看",
+    "pinyin": "guānkàn",
+    "definition": "eye, view, watch, spectate, eyeball"
+  },
+  {
+    "hanzi": "全垒打",
+    "pinyin": "quánlěidǎ",
+    "definition": "fourbagger, round-tripper, swot, swat, home_run, home run, home run (baseball), homer"
+  },
+  {
+    "hanzi": "撰写",
+    "pinyin": "zhuànxiě",
+    "definition": "write"
+  },
+  {
+    "hanzi": "无情",
+    "pinyin": "wúqíng",
+    "definition": "merciless, harden, heartless, ruthless"
+  },
+  {
+    "hanzi": "过关",
+    "pinyin": "guòguān",
+    "definition": "reach standard, pass a barrier, reach a standard, pass test, pass barrier, pass, go through ordeal, pass a test, go through an ordeal"
+  },
+  {
+    "hanzi": "传奇",
+    "pinyin": "chuánqí",
+    "definition": "legendry, romance, Tang and Song short stories, Ming and Qing poetic dramas, fable, short_story, legend"
+  },
+  {
+    "hanzi": "散",
+    "pinyin": "sàn",
+    "definition": "break up"
+  },
+  {
+    "hanzi": "超商",
+    "pinyin": "chāoshāng",
+    "definition": "convenience store"
+  },
+  {
+    "hanzi": "鱼类",
+    "pinyin": "yūlèi",
+    "definition": "Pisces, fin, fish, race of fishes, fish (as a general category)"
+  },
+  {
+    "hanzi": "准确",
+    "pinyin": "zhǔnquè",
+    "definition": "accurate, exact, precise"
+  },
+  {
+    "hanzi": "震撼",
+    "pinyin": "zhènhàn",
+    "definition": "shock, shake"
+  },
+  {
+    "hanzi": "摔",
+    "pinyin": "shuāi",
+    "definition": "throw, cast/throw down/off, drop, plunge, lose one's balance, off, swing, fall, tumble, throw down, cause to fall and break, cast down, cast, hurtle down, throw off, move backward and forward, fling, break"
+  },
+  {
+    "hanzi": "踏",
+    "pinyin": "tà",
+    "definition": "tread, trample, stamp, step, step on"
+  },
+  {
+    "hanzi": "震撼",
+    "pinyin": "zhènhàn",
+    "definition": "shock, shake"
+  },
+  {
+    "hanzi": "增设",
+    "pinyin": "zēngshè",
+    "definition": "add, add on"
+  },
+  {
+    "hanzi": "采访",
+    "pinyin": "cǎifǎng",
+    "definition": "cover, interview, gather news"
+  },
+  {
+    "hanzi": "欧",
+    "pinyin": "ōu",
+    "definition": "short name for Europe"
+  },
+  {
+    "hanzi": "常态",
+    "pinyin": "chángtài",
+    "definition": "normal, normalcy, normal conditions, normality, order, conditions, normal behavior/conditions, normal behavior"
+  },
+  {
+    "hanzi": "检举",
+    "pinyin": "jiǎnjǔ",
+    "definition": "report (offense), inform against (offender)"
+  },
+  {
+    "hanzi": "零件",
+    "pinyin": "língjiàn",
+    "definition": "section, part, components, spares, spare parts, parts, accessory"
+  },
+  {
+    "hanzi": "潜在",
+    "pinyin": "qiánzài",
+    "definition": "potential, latent"
+  },
+  {
+    "hanzi": "检举",
+    "pinyin": "jiǎnjǔ",
+    "definition": "report (offense), inform against (offender)"
+  },
+  {
+    "hanzi": "质量",
+    "pinyin": "zhíliàng",
+    "definition": "weight, molar, mass, quantity, quality"
+  },
+  {
+    "hanzi": "桥樑",
+    "pinyin": "liáng",
+    "definition": "bridge (lit./fig.)"
+  },
+  {
+    "hanzi": "撰写",
+    "pinyin": "zhuànxiě",
+    "definition": "write"
+  },
+  {
+    "hanzi": "回答",
+    "pinyin": "huídá",
+    "definition": "answer"
+  },
+  {
+    "hanzi": "北韩",
+    "pinyin": "běihán",
+    "definition": "North Korea"
+  },
+  {
+    "hanzi": "反倒",
+    "pinyin": "fǎndào",
+    "definition": "conj.: on the contrary, instead"
+  },
+  {
+    "hanzi": "北美",
+    "pinyin": "běiměi",
+    "definition": "North_America, North America"
+  },
+  {
+    "hanzi": "主意",
+    "pinyin": "zhǔyì",
+    "definition": "idea, plan, decision, definite view"
+  },
+  {
+    "hanzi": "亲身",
+    "pinyin": "qīnshēn",
+    "definition": "in person, personally, first-hand"
+  },
+  {
+    "hanzi": "冰",
+    "pinyin": "bīng",
+    "definition": "ice"
+  },
+  {
+    "hanzi": "早餐",
+    "pinyin": "zǎocān",
+    "definition": "breaker, petit dejeuner, brekker, dejeuner, breakfast, morning tea"
+  },
+  {
+    "hanzi": "失落",
+    "pinyin": "shīluò",
+    "definition": "lose"
+  },
+  {
+    "hanzi": "更换",
+    "pinyin": "gēnghuàn",
+    "definition": "change, replace"
+  },
+  {
+    "hanzi": "更换",
+    "pinyin": "gēnghuàn",
+    "definition": "change, replace"
+  },
+  {
+    "hanzi": "改建",
+    "pinyin": "gǎijiàn",
+    "definition": "reconstruct, rebuild"
+  },
+  {
+    "hanzi": "利息",
+    "pinyin": "lìxí",
+    "definition": "premium, usury, accrual, interest"
+  },
+  {
+    "hanzi": "中央",
+    "pinyin": "zhōngyāng",
+    "definition": "center, middle"
+  },
+  {
+    "hanzi": "竹子",
+    "pinyin": "zhúzi5",
+    "definition": "bamboo"
+  },
+  {
+    "hanzi": "升高",
+    "pinyin": "shēnggāo",
+    "definition": "up, hike, ascend, come up, arise, move up, climb, go up, lift, wax, loft, soar, heighten, rise, mount, escalate"
+  },
+  {
+    "hanzi": "波动",
+    "pinyin": "bōdòng",
+    "definition": "undulate, fluctuate"
+  },
+  {
+    "hanzi": "改建",
+    "pinyin": "gǎijiàn",
+    "definition": "reconstruct, rebuild"
+  },
+  {
+    "hanzi": "成交",
+    "pinyin": "chéngjiāo",
+    "definition": "conclude a transaction, clinch a deal, strike a bargain, close a deal"
+  },
+  {
+    "hanzi": "情人",
+    "pinyin": "qíngrén",
+    "definition": "inamorato, steady, sweetie, Gill, jo, girlfriend, swain, valentine, paramour, turtledove, jill, girl, sweetling, mouse, heart-throb, lassie, truelove, soul mate, flame, ladybird, ladylove, lover, sweetheart, mistress, admirer, hon, lovey, inamorata, honeybunch, turtle, sweeting, bedmate"
+  },
+  {
+    "hanzi": "波动",
+    "pinyin": "bōdòng",
+    "definition": "undulate, fluctuate"
+  },
+  {
+    "hanzi": "终止",
+    "pinyin": "zhōngzhǐ",
+    "definition": "stop, end"
+  },
+  {
+    "hanzi": "采访",
+    "pinyin": "cǎifǎng",
+    "definition": "cover, interview, gather news"
+  },
+  {
+    "hanzi": "终止",
+    "pinyin": "zhōngzhǐ",
+    "definition": "stop, end"
+  },
+  {
+    "hanzi": "野外",
+    "pinyin": "yěwài",
+    "definition": "air, out-of-doors, open, outdoors, open air, open country, balefire, field"
+  },
+  {
+    "hanzi": "软硬体",
+    "pinyin": "ruǎnyìngtǐ",
+    "definition": "software and hardware"
+  },
+  {
+    "hanzi": "到来",
+    "pinyin": "dàolái",
+    "definition": "arrive"
+  },
+  {
+    "hanzi": "规矩",
+    "pinyin": "guījǔ",
+    "definition": "rule, custom"
+  },
+  {
+    "hanzi": "俗称",
+    "pinyin": "súchēng",
+    "definition": "be commonly called..., be commonly called, be commonly known as..."
+  },
+  {
+    "hanzi": "况且",
+    "pinyin": "kuàngqiě",
+    "definition": "conj.: moreover, besides, in addition"
+  },
+  {
+    "hanzi": "风俗",
+    "pinyin": "fēngsú",
+    "definition": "mores, custom, public decency, manner, institution, ritual, Sunna, manners, rite, guise"
+  },
+  {
+    "hanzi": "到来",
+    "pinyin": "dàolái",
+    "definition": "arrive"
+  },
+  {
+    "hanzi": "死者",
+    "pinyin": "sǐzhě",
+    "definition": "deceased person, dead, deceased, slain, the dead, departed, dead soul, decedent, the dead/departed, the deceased, the departed, dead person"
+  },
+  {
+    "hanzi": "村子",
+    "pinyin": "cūnzi5",
+    "definition": "small town, village, settlement, hamlet"
+  },
+  {
+    "hanzi": "讨好",
+    "pinyin": "tǎohǎo",
+    "definition": "conciliate, have one's labor rewarded, blandish, accommodate, toady, oblige, toady to, curry favour with, grease, massage, propitiate, woo, fawn on, sugar, soft-soap, ingratiate, ingratiate oneself with"
+  },
+  {
+    "hanzi": "难忘",
+    "pinyin": "nánwàng",
+    "definition": "unforgettable, memorable"
+  },
+  {
+    "hanzi": "警分局",
+    "pinyin": "jǐngfēnjú",
+    "definition": "branch office of police bureau"
+  },
+  {
+    "hanzi": "艺文",
+    "pinyin": "yìwén",
+    "definition": "art and literature"
+  },
+  {
+    "hanzi": "盼",
+    "pinyin": "pàn",
+    "definition": "hope/long for, expect"
+  },
+  {
+    "hanzi": "解说",
+    "pinyin": "jiěshuō",
+    "definition": "explain orally, appease"
+  },
+  {
+    "hanzi": "藉口",
+    "pinyin": "jièkǒu",
+    "definition": "excuse, pretext"
+  },
+  {
+    "hanzi": "发烧",
+    "pinyin": "fāshāo",
+    "definition": "fever, kindle, feverish, temperature, run a temperature, run a fever, have a fever, have a temperature"
+  },
+  {
+    "hanzi": "堂",
+    "pinyin": "táng",
+    "definition": "m.[event]"
+  },
+  {
+    "hanzi": "狭窄",
+    "pinyin": "xiázhǎi",
+    "definition": "narrow, bottleneck, narrow and limited, cramped"
+  },
+  {
+    "hanzi": "通行",
+    "pinyin": "tōngxíng",
+    "definition": "pass/go through, be current or of general use"
+  },
+  {
+    "hanzi": "国代",
+    "pinyin": "guódài",
+    "definition": "representative to People's Congress"
+  },
+  {
+    "hanzi": "通行",
+    "pinyin": "tōngxíng",
+    "definition": "pass/go through, be current or of general use"
+  },
+  {
+    "hanzi": "杀害",
+    "pinyin": "shāhài",
+    "definition": "cut_down, liquidate, killing, kill, slay, cut_off, grease, remove, murder, destroy, do in, waste, ice, knock off"
+  },
+  {
+    "hanzi": "保母",
+    "pinyin": "bǎomǔ",
+    "definition": "baby-sitter"
+  },
+  {
+    "hanzi": "林立",
+    "pinyin": "línlì",
+    "definition": "stand in great numbers"
+  },
+  {
+    "hanzi": "科长",
+    "pinyin": "kēzhǎng",
+    "definition": "section chief"
+  },
+  {
+    "hanzi": "孙子",
+    "pinyin": "sūnzi5",
+    "definition": "son's son, grandson"
+  },
+  {
+    "hanzi": "筹码",
+    "pinyin": "chóumǎ",
+    "definition": "counter, jetton, dib, poker chip, chip, bargaining chip, medium_of_exchange"
+  },
+  {
+    "hanzi": "放松",
+    "pinyin": "fàngsōng",
+    "definition": "relax, slacken, loosen"
+  },
+  {
+    "hanzi": "收购",
+    "pinyin": "shōugòu",
+    "definition": "purchase, buy"
+  },
+  {
+    "hanzi": "地下室",
+    "pinyin": "dìxiàshì",
+    "definition": "rumpus_room, soutane, undercroft, rooms built below ground, ground_floor, serdab, cellar, hypogeum, crypt, subterranean, silo, subterrane, souterrain, vault, cellarage, basement"
+  },
+  {
+    "hanzi": "竹东",
+    "pinyin": "zhúdōng",
+    "definition": "Zhu Dong (town in Taiwan)"
+  },
+  {
+    "hanzi": "佔地",
+    "pinyin": "zhàndì",
+    "definition": "cover, cover an area of, occupy (space)"
+  },
+  {
+    "hanzi": "抗体",
+    "pinyin": "kàngtǐ",
+    "definition": "antibody"
+  },
+  {
+    "hanzi": "砍",
+    "pinyin": "kǎn",
+    "definition": "ax, hack, cut, shear, hew, chop_down, whack, carbonado, throw sth. at, hag, fall, chop"
+  },
+  {
+    "hanzi": "向量",
+    "pinyin": "xiàngliàng",
+    "definition": "vector, vector quantities, vectorial"
+  },
+  {
+    "hanzi": "容许",
+    "pinyin": "róngxǔ",
+    "definition": "let_in, have, receive, can, permission, permit, allow for, may, adhibit, might, admissive, provide for, admit, concede, cede, leave, suffer, tolerate, allow"
+  },
+  {
+    "hanzi": "存有",
+    "pinyin": "cúnyǒu",
+    "definition": "harbour, entertain, cherish, harbor, inhere"
+  },
+  {
+    "hanzi": "免",
+    "pinyin": "miǎn",
+    "definition": "duty-free, be not allowed"
+  },
+  {
+    "hanzi": "放松",
+    "pinyin": "fàngsōng",
+    "definition": "relax, slacken, loosen"
+  },
+  {
+    "hanzi": "军方",
+    "pinyin": "jūnfāng",
+    "definition": "armed forces, the military, military"
+  },
+  {
+    "hanzi": "面子",
+    "pinyin": "miànzi5",
+    "definition": "reputation, face, prestige"
+  },
+  {
+    "hanzi": "视听",
+    "pinyin": "shìtīng",
+    "definition": "seeing and hearing, audiovisual"
+  },
+  {
+    "hanzi": "收购",
+    "pinyin": "shōugòu",
+    "definition": "purchase, buy"
+  },
+  {
+    "hanzi": "切",
+    "pinyin": "qiē",
+    "definition": "cut, slice"
+  },
+  {
+    "hanzi": "显示器",
+    "pinyin": "xiǎnshìqì",
+    "definition": "monitor, display, caller ID, indicator"
+  },
+  {
+    "hanzi": "迈进",
+    "pinyin": "màijìn",
+    "definition": "forge ahead, stride forward, advance with big strides"
+  },
+  {
+    "hanzi": "听起来",
+    "pinyin": "tīngqǐlái",
+    "definition": "it sounds like"
+  },
+  {
+    "hanzi": "平凡",
+    "pinyin": "píngfán",
+    "definition": "ordinary, common"
+  },
+  {
+    "hanzi": "口袋",
+    "pinyin": "kǒudài",
+    "definition": "pocket"
+  },
+  {
+    "hanzi": "分区",
+    "pinyin": "fēnqū",
+    "definition": "zone, district"
+  },
+  {
+    "hanzi": "大队",
+    "pinyin": "dàduì",
+    "definition": "a military group, production brigade, a large number (of)"
+  },
+  {
+    "hanzi": "功",
+    "pinyin": "gōng",
+    "definition": "meritorious service, exploit, achievement, result, effect, skill"
+  },
+  {
+    "hanzi": "心事",
+    "pinyin": "xīnshì",
+    "definition": "weight on one's mind, worry"
+  },
+  {
+    "hanzi": "意象",
+    "pinyin": "yìxiàng",
+    "definition": "imagery, mental picture, thought, picture, idea, impression, image"
+  },
+  {
+    "hanzi": "一般",
+    "pinyin": "yībān",
+    "definition": "alike"
+  },
+  {
+    "hanzi": "华丽",
+    "pinyin": "huálì",
+    "definition": "magnificent, gorgeous"
+  },
+  {
+    "hanzi": "下山",
+    "pinyin": "xiàshān",
+    "definition": "descend mountain, descend hill"
+  },
+  {
+    "hanzi": "预备",
+    "pinyin": "yūbèi",
+    "definition": "get ready, dight, set, ready, busk, preparation, store, set up, prepare, line, gear up, provide_for, provide, equip, outfit"
+  },
+  {
+    "hanzi": "华丽",
+    "pinyin": "huálì",
+    "definition": "magnificent, gorgeous"
+  },
+  {
+    "hanzi": "犹豫",
+    "pinyin": "yóuyū",
+    "definition": "hesitant, fudge, oscillate, stagger, waver, be irresolute, scruple, irresolute, crane, pause, yo-yo, vacillate, hang, weaken, boggle, swither, dacker, balk, demur, swiver, hesitate"
+  },
+  {
+    "hanzi": "不见了",
+    "pinyin": "bújiànle5",
+    "definition": "be missing, disappear"
+  },
+  {
+    "hanzi": "殖民",
+    "pinyin": "zhímín",
+    "definition": "settle, plant, colonize, populate, establish colony, establish a colony"
+  },
+  {
+    "hanzi": "德",
+    "pinyin": "dé",
+    "definition": "Germany"
+  },
+  {
+    "hanzi": "对付",
+    "pinyin": "duìfù",
+    "definition": "counter, deal/cope with, face, confront, cope with, fix, make do, handle, deal, tackle, deal with"
+  },
+  {
+    "hanzi": "奖学金",
+    "pinyin": "jiǎngxuéjīn",
+    "definition": "burse, stipend, foundation, exhibition, studentship, scholarship"
+  },
+  {
+    "hanzi": "蒋介石",
+    "pinyin": "jiǎngjièshí",
+    "definition": "Kuomingtang party leader and head of Nat, Kuomingtang party leader and head of Nationalist Government in mainland China and Taiwan, Jiang Jieshi"
+  },
+  {
+    "hanzi": "对照",
+    "pinyin": "duìzhào",
+    "definition": "contrast, compare"
+  },
+  {
+    "hanzi": "对照",
+    "pinyin": "duìzhào",
+    "definition": "contrast, compare"
+  },
+  {
+    "hanzi": "辉煌",
+    "pinyin": "huīhuáng",
+    "definition": "glorious, effulgent, brilliant"
+  },
+  {
+    "hanzi": "惨",
+    "pinyin": "cǎn",
+    "definition": "tragic, gloomy, savage, sorrowful, cruel, pitiful, miserable, dark"
+  },
+  {
+    "hanzi": "擅长",
+    "pinyin": "shàncháng",
+    "definition": "excel, surpass, stand out, be good at, be skilled in, be expert in"
+  },
+  {
+    "hanzi": "黑暗",
+    "pinyin": "hēiàn",
+    "definition": "dark"
+  },
+  {
+    "hanzi": "观望",
+    "pinyin": "guānwàng",
+    "definition": "straddle, pussyfoot, look on (from sidelines), swiver, hesitate, waver, look on, wait and see"
+  },
+  {
+    "hanzi": "媳妇",
+    "pinyin": "xífù",
+    "definition": "the wife of a relative of the younger generation's, wife of sb. of younger generation, daughter-in-law, son's wife"
+  },
+  {
+    "hanzi": "露天",
+    "pinyin": "lùtiān",
+    "definition": "in the open air, outdoors"
+  },
+  {
+    "hanzi": "观摩",
+    "pinyin": "guānmó",
+    "definition": "view and emulate"
+  },
+  {
+    "hanzi": "韩",
+    "pinyin": "hán",
+    "definition": "Korea"
+  },
+  {
+    "hanzi": "招收",
+    "pinyin": "zhāoshōu",
+    "definition": "recruit, take in"
+  },
+  {
+    "hanzi": "最爱",
+    "pinyin": "zuìài",
+    "definition": "favor, most favored"
+  },
+  {
+    "hanzi": "移",
+    "pinyin": "yí",
+    "definition": "removal, alteration, transform, shift, remove, movement, alter, change, move"
+  },
+  {
+    "hanzi": "显",
+    "pinyin": "xiǎn",
+    "definition": "demonstrate, be obvious, manifest, appear, display, show"
+  },
+  {
+    "hanzi": "描绘",
+    "pinyin": "miáohuì",
+    "definition": "depict, describe, portray"
+  },
+  {
+    "hanzi": "当兵",
+    "pinyin": "dāngbīng",
+    "definition": "soldier, serve in army, serve in the army, be a soldier"
+  },
+  {
+    "hanzi": "书面",
+    "pinyin": "shūmiàn",
+    "definition": "written, in written form, in writing"
+  },
+  {
+    "hanzi": "商家",
+    "pinyin": "shāngjiā",
+    "definition": "manager (of inn/shop/etc.)"
+  },
+  {
+    "hanzi": "偏",
+    "pinyin": "piān",
+    "definition": "stubbornly, on the contrary"
+  },
+  {
+    "hanzi": "彗星",
+    "pinyin": "huìxīng",
+    "definition": "comet"
+  },
+  {
+    "hanzi": "添",
+    "pinyin": "tiān",
+    "definition": "add, fuel, appose, addition, increase, have a baby"
+  },
+  {
+    "hanzi": "盼望",
+    "pinyin": "pànwàng",
+    "definition": "hope/long for, look forward to"
+  },
+  {
+    "hanzi": "盼望",
+    "pinyin": "pànwàng",
+    "definition": "hope/long for, look forward to"
+  },
+  {
+    "hanzi": "描绘",
+    "pinyin": "miáohuì",
+    "definition": "depict, describe, portray"
+  },
+  {
+    "hanzi": "盆地",
+    "pinyin": "péndì",
+    "definition": "pan, river basin, basin"
+  },
+  {
+    "hanzi": "无知",
+    "pinyin": "wúzhī",
+    "definition": "ignorant, stupid"
+  },
+  {
+    "hanzi": "招收",
+    "pinyin": "zhāoshōu",
+    "definition": "recruit, take in"
+  },
+  {
+    "hanzi": "冒险",
+    "pinyin": "màoxiǎn",
+    "definition": "take risks/chances"
+  },
+  {
+    "hanzi": "冒险",
+    "pinyin": "màoxiǎn",
+    "definition": "take risks/chances"
+  },
+  {
+    "hanzi": "乘客",
+    "pinyin": "chéngkè",
+    "definition": "fare, rider, passenger"
+  },
+  {
+    "hanzi": "制服",
+    "pinyin": "zhìfú",
+    "definition": "uniform"
+  },
+  {
+    "hanzi": "行人",
+    "pinyin": "xíngrén",
+    "definition": "foot traffic, passerby, goer, pedestrian, pedestrian traffic, passenger"
+  },
+  {
+    "hanzi": "任职",
+    "pinyin": "rènzhí",
+    "definition": "assignment, be in office, serve, hold a position, hold a post"
+  },
+  {
+    "hanzi": "光纤",
+    "pinyin": "guāngxiān",
+    "definition": "glass fiber, optical fibre, fiber_optics, light guide, optical fiber, glass fibre"
+  },
+  {
+    "hanzi": "攻",
+    "pinyin": "gōng",
+    "definition": "assault, attack, censure, accuse"
+  },
+  {
+    "hanzi": "住处",
+    "pinyin": "zhùchù",
+    "definition": "domicile, hangout, dwelling, lodging, residency, domiciliation, diggings, abode, digs, quarters, habitation, lodgings, roost, living quarters, pad, residence"
+  },
+  {
+    "hanzi": "行李",
+    "pinyin": "xínglǐ",
+    "definition": "clobber, impedimenta, dunnage, luggage, baggage"
+  },
+  {
+    "hanzi": "攻势",
+    "pinyin": "gōngshì",
+    "definition": "offensive"
+  },
+  {
+    "hanzi": "妨害",
+    "pinyin": "fánghài",
+    "definition": "traverse, impair, bar, cumber, be harmful to, trammel, encumber, sabotage, molest, obstruct, blanket, impairment, disturb, jeopardize, annoy, put in jeopardy"
+  },
+  {
+    "hanzi": "恰当",
+    "pinyin": "qiàdàng",
+    "definition": "appropriate, proper, suitable, fitting"
+  },
+  {
+    "hanzi": "制成",
+    "pinyin": "zhìchéng",
+    "definition": "hew, make, successfully complete"
+  },
+  {
+    "hanzi": "轿车",
+    "pinyin": "jiàochē",
+    "definition": "(horse-drawn) carriage, saloon, passenger car, car, limousine, carriage, coach, bus, sedan"
+  },
+  {
+    "hanzi": "验证",
+    "pinyin": "yànzhèng",
+    "definition": "test and verify"
+  },
+  {
+    "hanzi": "验证",
+    "pinyin": "yànzhèng",
+    "definition": "test and verify"
+  },
+  {
+    "hanzi": "观摩",
+    "pinyin": "guānmó",
+    "definition": "view and emulate"
+  },
+  {
+    "hanzi": "市镇",
+    "pinyin": "shìzhèn",
+    "definition": "small town, town"
+  },
+  {
+    "hanzi": "心思",
+    "pinyin": "xīnsī",
+    "definition": "thought, idea, thinking, state of mind, mood"
+  },
+  {
+    "hanzi": "心意",
+    "pinyin": "xīnyì",
+    "definition": "regard, kindly feeling, intention, purpose"
+  },
+  {
+    "hanzi": "少见",
+    "pinyin": "shǎojiàn",
+    "definition": "rare, seldom seen, unique"
+  },
+  {
+    "hanzi": "无知",
+    "pinyin": "wúzhī",
+    "definition": "ignorant, stupid"
+  },
+  {
+    "hanzi": "化为",
+    "pinyin": "huàwéi",
+    "definition": "become"
+  },
+  {
+    "hanzi": "赶到",
+    "pinyin": "gǎndào",
+    "definition": "leave for, hurry to"
+  },
+  {
+    "hanzi": "厂牌",
+    "pinyin": "chǎngpái",
+    "definition": "brand name"
+  },
+  {
+    "hanzi": "线索",
+    "pinyin": "xiànsuǒ",
+    "definition": "track, thread, cue, lead, handhold, purchase, scent, train of thought, clue, trail, key, clew, pointer"
+  },
+  {
+    "hanzi": "嘉义",
+    "pinyin": "jiāyì",
+    "definition": "Chia-yi (a county in Taiwan)"
+  },
+  {
+    "hanzi": "道歉",
+    "pinyin": "dàoqiàn",
+    "definition": "apologize"
+  },
+  {
+    "hanzi": "经典",
+    "pinyin": "jīngdiǎn",
+    "definition": "canon, classic, classics, sutra, scriptures, scripture, Bible"
+  },
+  {
+    "hanzi": "子弟",
+    "pinyin": "zǐdì",
+    "definition": "sons and younger brothers, children, juniors"
+  },
+  {
+    "hanzi": "对面",
+    "pinyin": "duìmiàn",
+    "definition": "opposite"
+  },
+  {
+    "hanzi": "脾气",
+    "pinyin": "píqì",
+    "definition": "kidney, dispose, irritation, surliness, behavior, temper, pique, habit, mould, irritability, bile, bad temper, biliousness, temperament, characteristic, dander, pettishness, disposition, stubborn disposition, blood, snappishness, proclivity, peevishness, grain"
+  },
+  {
+    "hanzi": "想像力",
+    "pinyin": "xiǎngxiànglì",
+    "definition": "imaginative power, imaginative power/faculty, imaginativeness, vision, imagination, fancy, ideality, imaginative faculty, faculty"
+  },
+  {
+    "hanzi": "补习",
+    "pinyin": "bǔxí",
+    "definition": "take lessons after school/work"
+  },
+  {
+    "hanzi": "补习",
+    "pinyin": "bǔxí",
+    "definition": "take lessons after school/work"
+  },
+  {
+    "hanzi": "运气",
+    "pinyin": "yùnqì",
+    "definition": "fortune, luck"
+  },
+  {
+    "hanzi": "道歉",
+    "pinyin": "dàoqiàn",
+    "definition": "apologize"
+  },
+  {
+    "hanzi": "对比",
+    "pinyin": "duìbǐ",
+    "definition": "ratio, correlation"
+  },
+  {
+    "hanzi": "数据机",
+    "pinyin": "shùjùjī",
+    "definition": "modem"
+  },
+  {
+    "hanzi": "影展",
+    "pinyin": "yǐngzhǎn",
+    "definition": "film exhibition, film fair, film fair/festival, photographic exhibition, film festival, photo exhibition, festival"
+  },
+  {
+    "hanzi": "窗口",
+    "pinyin": "chuāngkǒu",
+    "definition": "window, wicket, ticket window"
+  },
+  {
+    "hanzi": "一般来说",
+    "pinyin": "yībānláishuō",
+    "definition": "generally speaking"
+  },
+  {
+    "hanzi": "山脉",
+    "pinyin": "shānmài",
+    "definition": "mountain range"
+  },
+  {
+    "hanzi": "民主化",
+    "pinyin": "mínzhǔhuà",
+    "definition": "democratize"
+  },
+  {
+    "hanzi": "千万",
+    "pinyin": "qiānwàn",
+    "definition": "det.: ten million, (tens of) millions"
+  },
+  {
+    "hanzi": "打架",
+    "pinyin": "dǎjià",
+    "definition": "struggle, scrap, wrangle, fight, come to blows, box, scuffle, brawl"
+  },
+  {
+    "hanzi": "土著",
+    "pinyin": "tǔzhù",
+    "definition": "original inhabitants, aboriginals"
+  },
+  {
+    "hanzi": "充裕",
+    "pinyin": "chōngyū",
+    "definition": "abundant"
+  },
+  {
+    "hanzi": "灵感",
+    "pinyin": "línggǎn",
+    "definition": "motive, afflatus, rage, breathing, brainwave, muse, inspiration, brainchild"
+  },
+  {
+    "hanzi": "鲜明",
+    "pinyin": "xiānmíng",
+    "definition": "bright (of color), distinct, distinctive"
+  },
+  {
+    "hanzi": "正当",
+    "pinyin": "zhèngdāng",
+    "definition": "proper, legitimate"
+  },
+  {
+    "hanzi": "局势",
+    "pinyin": "júshì",
+    "definition": "situation"
+  },
+  {
+    "hanzi": "细腻",
+    "pinyin": "xìnì",
+    "definition": "fine and smooth, exquisite, minute"
+  },
+  {
+    "hanzi": "连带",
+    "pinyin": "liándài",
+    "definition": "jointly"
+  },
+  {
+    "hanzi": "务实",
+    "pinyin": "wùshí",
+    "definition": "deal with concrete matters relating to work, try to be practical/pragmatic, pragmatic, try to be pragmatic, try to be practical, deal with concrete matters"
+  },
+  {
+    "hanzi": "国画",
+    "pinyin": "guóhuà",
+    "definition": "trad. Ch. painting"
+  },
+  {
+    "hanzi": "推测",
+    "pinyin": "tuīcè",
+    "definition": "infer, conjecture, guess"
+  },
+  {
+    "hanzi": "欲望",
+    "pinyin": "yūwàng",
+    "definition": "appetence, indirect request, wish, appetite, stomach, concupiscence, desire, Kama, appetency, hunger, thirst, lech, orexis, rage, passion"
+  },
+  {
+    "hanzi": "颁发",
+    "pinyin": "bānfā",
+    "definition": "issue, promulgate, award"
+  },
+  {
+    "hanzi": "逐年",
+    "pinyin": "zhúnián",
+    "definition": "all the year round, for years, all year, year after year, year in year out"
+  },
+  {
+    "hanzi": "雨水",
+    "pinyin": "yǔshuǐ",
+    "definition": "rain, Rainwater, rainwater, Rainwater (second solar term), rainfall, Rain water (2nd solar term)"
+  },
+  {
+    "hanzi": "配备",
+    "pinyin": "pèibèi",
+    "definition": "equipment"
+  },
+  {
+    "hanzi": "亚太",
+    "pinyin": "yǎtài",
+    "definition": "Asia-Pacific region"
+  },
+  {
+    "hanzi": "奠定",
+    "pinyin": "diàndìng",
+    "definition": "establish, settle"
+  },
+  {
+    "hanzi": "大王",
+    "pinyin": "dàiwáng",
+    "definition": "king, magnate"
+  },
+  {
+    "hanzi": "开展",
+    "pinyin": "kāizhǎn",
+    "definition": "develop, launch, unfold"
+  },
+  {
+    "hanzi": "颁发",
+    "pinyin": "bānfā",
+    "definition": "issue, promulgate, award"
+  },
+  {
+    "hanzi": "细腻",
+    "pinyin": "xìnì",
+    "definition": "fine and smooth, exquisite, minute"
+  },
+  {
+    "hanzi": "保健",
+    "pinyin": "bǎojiàn",
+    "definition": "health care, health protection, care for one's health"
+  },
+  {
+    "hanzi": "忽",
+    "pinyin": "hū",
+    "definition": "suddenly"
+  },
+  {
+    "hanzi": "存款",
+    "pinyin": "cúnkuǎn",
+    "definition": "deposit, bank saving"
+  },
+  {
+    "hanzi": "走向",
+    "pinyin": "zǒuxiàng",
+    "definition": "trend, run, alignment, strike"
+  },
+  {
+    "hanzi": "妙",
+    "pinyin": "miào",
+    "definition": "wonderful, excellent, fine, ingenious, clever, subtle"
+  },
+  {
+    "hanzi": "吾",
+    "pinyin": "wú",
+    "definition": "I"
+  },
+  {
+    "hanzi": "垃圾场",
+    "pinyin": "lèsèchǎng",
+    "definition": "rubbish dump, garbage heap, dump, tip, crematory, garbage dump, wasteyard, refuse, refuse heap, trash dump"
+  },
+  {
+    "hanzi": "重重",
+    "pinyin": "chóngchóng",
+    "definition": "layer upon layer, ring upon ring"
+  },
+  {
+    "hanzi": "亮丽",
+    "pinyin": "liànglì",
+    "definition": "beautiful, remarkable, brilliant, splendid, smart"
+  },
+  {
+    "hanzi": "海关",
+    "pinyin": "hǎiguān",
+    "definition": "chophouse, customhouse, customshouse, custom, haikwan, customs, douane"
+  },
+  {
+    "hanzi": "美景",
+    "pinyin": "měijǐng",
+    "definition": "vision, beauty_spot, beautiful sight, beautiful scenery"
+  },
+  {
+    "hanzi": "果真",
+    "pinyin": "guǒzhēn",
+    "definition": "really, as expected"
+  },
+  {
+    "hanzi": "首要",
+    "pinyin": "shǒuyào",
+    "definition": "chief, paramountcy, premiership, primacy, of first importance"
+  },
+  {
+    "hanzi": "音乐厅",
+    "pinyin": "yīnyuètīng",
+    "definition": "odeum, concert hall, music_hall, lyceum, auditorium, odeon, music hall"
+  },
+  {
+    "hanzi": "苗栗",
+    "pinyin": "miáolì",
+    "definition": "Miaoli (a county inTaiwan)"
+  },
+  {
+    "hanzi": "欺骗",
+    "pinyin": "qīpiàn",
+    "definition": "cheat, dupe"
+  },
+  {
+    "hanzi": "幸好",
+    "pinyin": "xìnghǎo",
+    "definition": "fortunately, luckily"
+  },
+  {
+    "hanzi": "办桌",
+    "pinyin": "bànzhuō",
+    "definition": "entertain guests at banquet"
+  },
+  {
+    "hanzi": "欺骗",
+    "pinyin": "qīpiàn",
+    "definition": "cheat, dupe"
+  },
+  {
+    "hanzi": "澳门",
+    "pinyin": "àomén",
+    "definition": "Aomen (Macao)"
+  },
+  {
+    "hanzi": "推测",
+    "pinyin": "tuīcè",
+    "definition": "infer, conjecture, guess"
+  },
+  {
+    "hanzi": "震荡",
+    "pinyin": "zhèndàng",
+    "definition": "shake, shock, quake"
+  },
+  {
+    "hanzi": "暴露",
+    "pinyin": "pùlù",
+    "definition": "unmask, divulge, expose, develop, bewray, unhood, unhusk, uncover, lay bare, show_up, reveal, flash, uncase, debunk, discover, unkennel, revelation, betray, give_away, unveil"
+  },
+  {
+    "hanzi": "热带",
+    "pinyin": "rèdài",
+    "definition": "tropical zone, Torrid Zone, savanna, torrid, the tropics, the torrid zone, tropical_zone, tropical, tropic, tropics"
+  },
+  {
+    "hanzi": "战事",
+    "pinyin": "zhànshì",
+    "definition": "war, hostilities"
+  },
+  {
+    "hanzi": "制",
+    "pinyin": "zhì",
+    "definition": "make, manufacture, create"
+  },
+  {
+    "hanzi": "缘",
+    "pinyin": "yuán",
+    "definition": "fate, predestination"
+  },
+  {
+    "hanzi": "夕阳",
+    "pinyin": "xìyáng",
+    "definition": "setting sun"
+  },
+  {
+    "hanzi": "人道",
+    "pinyin": "réndào",
+    "definition": "human sympathy"
+  },
+  {
+    "hanzi": "下课",
+    "pinyin": "xiàkè",
+    "definition": "finish class, get out of class"
+  },
+  {
+    "hanzi": "民主化",
+    "pinyin": "mínzhǔhuà",
+    "definition": "democratize"
+  },
+  {
+    "hanzi": "心胸",
+    "pinyin": "xīnxiōng",
+    "definition": "breadth of mind"
+  },
+  {
+    "hanzi": "尺",
+    "pinyin": "chǐ",
+    "definition": "m.[standard]"
+  },
+  {
+    "hanzi": "谘商",
+    "pinyin": "zīshāng",
+    "definition": "confer, discuss, negotiate"
+  },
+  {
+    "hanzi": "想不到",
+    "pinyin": "xiǎngbúdào",
+    "definition": "unable to anticipate"
+  },
+  {
+    "hanzi": "感官",
+    "pinyin": "gǎnguān",
+    "definition": "sentience, sensory faculty, sensation, sense/sensory organ, sensory organ, sentiency, sense organ, sense"
+  },
+  {
+    "hanzi": "号召",
+    "pinyin": "hàozhào",
+    "definition": "call, appeal (for supporters)"
+  },
+  {
+    "hanzi": "开展",
+    "pinyin": "kāizhǎn",
+    "definition": "develop, launch, unfold"
+  },
+  {
+    "hanzi": "谘商",
+    "pinyin": "zīshāng",
+    "definition": "confer, discuss, negotiate"
+  },
+  {
+    "hanzi": "週年",
+    "pinyin": "zhōunián",
+    "definition": "m.[standard]"
+  },
+  {
+    "hanzi": "缘故",
+    "pinyin": "yuángù",
+    "definition": "score, grounds, reason, cause, sake"
+  },
+  {
+    "hanzi": "道家",
+    "pinyin": "dàojiā",
+    "definition": "Taoist, Taoist school, Daoist school, Daoist religion, Daoist school/religion, religion"
+  },
+  {
+    "hanzi": "震荡",
+    "pinyin": "zhèndàng",
+    "definition": "shake, shock, quake"
+  },
+  {
+    "hanzi": "号称",
+    "pinyin": "hàochēng",
+    "definition": "be known as, claim to be"
+  },
+  {
+    "hanzi": "睡着",
+    "pinyin": "shuìzháo",
+    "definition": "asleep, fall_asleep, go_off, nod off, drift off, doze off, fall asleep, dope off, flake, drowse off, conk, dormant, flake out, drop off"
+  },
+  {
+    "hanzi": "增长",
+    "pinyin": "zēngzhǎng",
+    "definition": "increase, grow"
+  },
+  {
+    "hanzi": "报案",
+    "pinyin": "bàoàn",
+    "definition": "report case to security authorities"
+  },
+  {
+    "hanzi": "报案",
+    "pinyin": "bàoàn",
+    "definition": "report case to security authorities"
+  },
+  {
+    "hanzi": "黑白",
+    "pinyin": "hēibái",
+    "definition": "black and white, right and wrong, good and bad"
+  },
+  {
+    "hanzi": "号召",
+    "pinyin": "hàozhào",
+    "definition": "call, appeal (for supporters)"
+  },
+  {
+    "hanzi": "充足",
+    "pinyin": "chōngzú",
+    "definition": "ample"
+  },
+  {
+    "hanzi": "疼痛",
+    "pinyin": "téngtòng",
+    "definition": "pain, soreness, fester, suffer, hurt, ache, sore"
+  },
+  {
+    "hanzi": "简称",
+    "pinyin": "jiǎnchēng",
+    "definition": "be called sth. for short"
+  },
+  {
+    "hanzi": "脏",
+    "pinyin": "zāng",
+    "definition": "dirty, squalid, smudge, filthy, smutch, blur, smear"
+  },
+  {
+    "hanzi": "签署",
+    "pinyin": "qiānshǔ",
+    "definition": "sign/initial (a document)"
+  },
+  {
+    "hanzi": "签署",
+    "pinyin": "qiānshǔ",
+    "definition": "sign/initial (a document)"
+  },
+  {
+    "hanzi": "签证",
+    "pinyin": "qiānzhèng",
+    "definition": "visa"
+  },
+  {
+    "hanzi": "体操",
+    "pinyin": "tǐcāo",
+    "definition": "jerk, physical exertion, workout, exercise, physical_exercise, gymnastic, calisthenics, exercising, gymnastics, physical exercise, gym"
+  },
+  {
+    "hanzi": "搬",
+    "pinyin": "bān",
+    "definition": "copy mechanically, remove, apply indiscriminately, take away, transfer, move, move (house)"
+  },
+  {
+    "hanzi": "真诚",
+    "pinyin": "zhēnchéng",
+    "definition": "sincere, genuine, true"
+  },
+  {
+    "hanzi": "真诚",
+    "pinyin": "zhēnchéng",
+    "definition": "sincere, genuine, true"
+  },
+  {
+    "hanzi": "衰退",
+    "pinyin": "shuāituì",
+    "definition": "fail, decline"
+  },
+  {
+    "hanzi": "陈情",
+    "pinyin": "chénqíng",
+    "definition": "state the situation/truth"
+  },
+  {
+    "hanzi": "陈情",
+    "pinyin": "chénqíng",
+    "definition": "state the situation/truth"
+  },
+  {
+    "hanzi": "高职",
+    "pinyin": "gāozhí",
+    "definition": "professional school, college, quality, technical"
+  },
+  {
+    "hanzi": "绝",
+    "pinyin": "jué",
+    "definition": "extremely, most, absolutely, in the least, by any means, on any account"
+  },
+  {
+    "hanzi": "乡民",
+    "pinyin": "xiāngmín",
+    "definition": "countryside, villager"
+  },
+  {
+    "hanzi": "新埔",
+    "pinyin": "xīnbǔ",
+    "definition": "Hsin-pu (a town in Taiwan)"
+  },
+  {
+    "hanzi": "无力",
+    "pinyin": "wúlì",
+    "definition": "powerless, feel weak, lack strength, incapable"
+  },
+  {
+    "hanzi": "媒介",
+    "pinyin": "méijiè",
+    "definition": "vehicle, transmission, media, intermediary, instrumentality, means, channel, ministry, mediacy, mediateness, agency, meeja, implement, medium"
+  },
+  {
+    "hanzi": "郑",
+    "pinyin": "zhèng",
+    "definition": "Zheng, Surname"
+  },
+  {
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "definition": "det.: your (courteous usage)"
+  },
+  {
+    "hanzi": "计有",
+    "pinyin": "jìyǒu",
+    "definition": "calculate in advance, estimate"
+  },
+  {
+    "hanzi": "无从",
+    "pinyin": "wúcóng",
+    "definition": "unable to"
+  },
+  {
+    "hanzi": "园地",
+    "pinyin": "yuándì",
+    "definition": "special page in periodical, special section in periodical, park/garden area, special section, croft, page in periodical, garden area, special section/page in periodical, garden plot, park area, field, scope, park"
+  },
+  {
+    "hanzi": "灿烂",
+    "pinyin": "cànlàn",
+    "definition": "brilliant, glitter, splendid, resplend, resplendent, magnificent"
+  },
+  {
+    "hanzi": "墨西哥",
+    "pinyin": "mòxīgē",
+    "definition": "Mexico"
+  },
+  {
+    "hanzi": "课本",
+    "pinyin": "kèběn",
+    "definition": "text edition, textbook, text, school text, schoolbook"
+  },
+  {
+    "hanzi": "抗日",
+    "pinyin": "kàngrì",
+    "definition": "resistance against Japan"
+  },
+  {
+    "hanzi": "领土",
+    "pinyin": "lǐngtǔ",
+    "definition": "demesne, country, nation, realm, soli, landgrave, princedom, territory, emirate, domain, state, seigneury, estate, seignory, territoriality, acres, possession, signory, territorial, province, landed estate, dominion, land"
+  },
+  {
+    "hanzi": "尴尬",
+    "pinyin": "gāngà",
+    "definition": "awkward, embarrassed"
+  },
+  {
+    "hanzi": "齐全",
+    "pinyin": "qíquán",
+    "definition": "all in readiness, assort, complete"
+  },
+  {
+    "hanzi": "荣获",
+    "pinyin": "rónghuò",
+    "definition": "have the honor to win"
+  },
+  {
+    "hanzi": "学界",
+    "pinyin": "xuéjiè",
+    "definition": "educational, educational circles, academic circles, educational/academic circles, literati"
+  },
+  {
+    "hanzi": "运",
+    "pinyin": "yùn",
+    "definition": "transportation, wield, transport, revolve, utilize, use, dribble, bear, carry, utilization"
+  },
+  {
+    "hanzi": "定案",
+    "pinyin": "dìngàn",
+    "definition": "pass, decide on, reach verdict"
+  },
+  {
+    "hanzi": "地域",
+    "pinyin": "dìyū",
+    "definition": "tract, area, latitude, quarter, territory, climate, region, scope, district, terrain, climactic"
+  },
+  {
+    "hanzi": "外部",
+    "pinyin": "wàibù",
+    "definition": "outer, surface, external, outwall, outside, exterior"
+  },
+  {
+    "hanzi": "门诊",
+    "pinyin": "ménzhěn",
+    "definition": "outpatient service"
+  },
+  {
+    "hanzi": "存取",
+    "pinyin": "cúnqǔ",
+    "definition": "access (data)"
+  },
+  {
+    "hanzi": "宜兰县",
+    "pinyin": "yílánxiàn",
+    "definition": "I-Lan (county of Taiwan)"
+  },
+  {
+    "hanzi": "列车",
+    "pinyin": "lièchē",
+    "definition": "train"
+  },
+  {
+    "hanzi": "多样",
+    "pinyin": "duōyàng",
+    "definition": "diverse, multiform, various"
+  },
+  {
+    "hanzi": "抗日",
+    "pinyin": "kàngrì",
+    "definition": "resistance against Japan"
+  },
+  {
+    "hanzi": "存取",
+    "pinyin": "cúnqǔ",
+    "definition": "access (data)"
+  },
+  {
+    "hanzi": "来访",
+    "pinyin": "láifǎng",
+    "definition": "come to visit/call"
+  },
+  {
+    "hanzi": "成份",
+    "pinyin": "chéngfèn",
+    "definition": "composition, ingredient, one's profession or economic status, component part, part, chemistry, constituent, one's class status, component, note"
+  },
+  {
+    "hanzi": "衰退",
+    "pinyin": "shuāituì",
+    "definition": "fail, decline"
+  },
+  {
+    "hanzi": "来访",
+    "pinyin": "láifǎng",
+    "definition": "come to visit/call"
+  },
+  {
+    "hanzi": "连上",
+    "pinyin": "liánshàng",
+    "definition": "link, connect"
+  },
+  {
+    "hanzi": "计较",
+    "pinyin": "jìjiào",
+    "definition": "argue, arguement, wrangle, care, dispute, think over, haggle over, haggling over, mind, fuss about, discuss in minute detail"
+  },
+  {
+    "hanzi": "金瓜石",
+    "pinyin": "jīnguāshí",
+    "definition": "a scenic spots in north Taiwan"
+  },
+  {
+    "hanzi": "门诊",
+    "pinyin": "ménzhěn",
+    "definition": "outpatient service"
+  },
+  {
+    "hanzi": "后遗症",
+    "pinyin": "hòuyízhèng",
+    "definition": "aftereffect, hangover, sequela, sequelae"
+  },
+  {
+    "hanzi": "玫瑰",
+    "pinyin": "méiguī",
+    "definition": "rosebush, rose"
+  },
+  {
+    "hanzi": "科学园区",
+    "pinyin": "kēxuéyuánqū",
+    "definition": "Sciense-Based Industrial Park"
+  },
+  {
+    "hanzi": "负荷",
+    "pinyin": "fùhè",
+    "definition": "load, charge, weight"
+  },
+  {
+    "hanzi": "包装",
+    "pinyin": "bāozhuāng",
+    "definition": "pack, dress up"
+  },
+  {
+    "hanzi": "派出所",
+    "pinyin": "pàichūsuǒ",
+    "definition": "police_station, police headquarters, police substation, police office, local police station, station house, substation, police station"
+  },
+  {
+    "hanzi": "抬",
+    "pinyin": "tái",
+    "definition": "lift, betray, carry (together), raise, carry, argue for the sake of arguing"
+  },
+  {
+    "hanzi": "流氓",
+    "pinyin": "liúmáng",
+    "definition": "roughscuff, rip, yobbo, badmash, swashbuckler, rascal, riffraff, scamp, raff, rapscallion, rogue, rowdy, hooliganism, cur, picaroon, varmint, yobo, ruffian, hector, roughneck, gaolbird, scalawag, gorilla, no-good, scallywag, hoodlum, limmer, tearaway, blackguard, picaro, hooligan, hessian, bullyboy, rascallion, indecency, bully, plug-ugly, shoulder-hitter, dingbat, caird, tough, varlet, sc"
+  },
+  {
+    "hanzi": "尴尬",
+    "pinyin": "gāngà",
+    "definition": "awkward, embarrassed"
+  },
+  {
+    "hanzi": "言语",
+    "pinyin": "yányǔ",
+    "definition": "spoken language, speech"
+  },
+  {
+    "hanzi": "升值",
+    "pinyin": "shēngzhí",
+    "definition": "revalue, appreciate"
+  },
+  {
+    "hanzi": "四川",
+    "pinyin": "sìchuān",
+    "definition": "Szechwan, Szechuan, Sichuan province, Sichuan"
+  },
+  {
+    "hanzi": "不及",
+    "pinyin": "bùjí",
+    "definition": "less than"
+  },
+  {
+    "hanzi": "加油",
+    "pinyin": "jiāyóu",
+    "definition": "gas, lubricate, oil, refuel, gas up, embolden, accelerate, lubrication, fuel, cheer, recreate, hearten, make an extra effort"
+  },
+  {
+    "hanzi": "外型",
+    "pinyin": "wàixíng",
+    "definition": "profile, contour, appearance, external form"
+  },
+  {
+    "hanzi": "大气",
+    "pinyin": "dàqì",
+    "definition": "atmosphere, air, grand air, heavy breathing"
+  },
+  {
+    "hanzi": "应该",
+    "pinyin": "yīnggāi",
+    "definition": "right, proper"
+  },
+  {
+    "hanzi": "聆听",
+    "pinyin": "língtīng",
+    "definition": "hear, listen, listen carefully, breathe_in, listen respectfully"
+  },
+  {
+    "hanzi": "猛",
+    "pinyin": "měng",
+    "definition": "suddenly, abruptly"
+  },
+  {
+    "hanzi": "素材",
+    "pinyin": "sùcái",
+    "definition": "material, source material, medium"
+  },
+  {
+    "hanzi": "深思",
+    "pinyin": "shēnsī",
+    "definition": "ruminate, politic, chew, ponder deeply, consider carefully, speculate, bethink, rumination, chew the cud, perpend"
+  },
+  {
+    "hanzi": "脖子",
+    "pinyin": "bózi5",
+    "definition": "cervix, neck"
+  },
+  {
+    "hanzi": "书包",
+    "pinyin": "shūbāo",
+    "definition": "bag, book bag, satchel, schoolbag"
+  },
+  {
+    "hanzi": "捧",
+    "pinyin": "pěng",
+    "definition": "hold/carry sth. level in both hands, boost, boast, exalt, flatter"
+  },
+  {
+    "hanzi": "理所当然",
+    "pinyin": "lǐsuǒdāngrán",
+    "definition": "of course, naturally"
+  },
+  {
+    "hanzi": "划分",
+    "pinyin": "huàfēn",
+    "definition": "divide, differentiate"
+  },
+  {
+    "hanzi": "通",
+    "pinyin": "tōng",
+    "definition": "unimpeded, unblocked"
+  },
+  {
+    "hanzi": "国际性",
+    "pinyin": "guójìxìng",
+    "definition": "international, internationalism, international character, internationality"
+  },
+  {
+    "hanzi": "规律",
+    "pinyin": "guīlù",
+    "definition": "law, regular pattern"
+  },
+  {
+    "hanzi": "速率",
+    "pinyin": "sùlù",
+    "definition": "velocity, speed, rate"
+  },
+  {
+    "hanzi": "省籍",
+    "pinyin": "shěngjí",
+    "definition": "native/birth place"
+  },
+  {
+    "hanzi": "稀饭",
+    "pinyin": "xīfàn",
+    "definition": "gruel, rice/millet gruel, rice, congee, porridge, millet gruel, rice gruel"
+  },
+  {
+    "hanzi": "阿里山",
+    "pinyin": "ālǐshān",
+    "definition": "A-Li mountain"
+  },
+  {
+    "hanzi": "发音",
+    "pinyin": "fāyīn",
+    "definition": "pronunciation, articulation"
+  },
+  {
+    "hanzi": "极度",
+    "pinyin": "jídù",
+    "definition": "extremely, plaguey, exceedingly, deadly, vitally, to the utmost, passing, plaguily, badly, plaguy"
+  },
+  {
+    "hanzi": "划分",
+    "pinyin": "huàfēn",
+    "definition": "divide, differentiate"
+  },
+  {
+    "hanzi": "照明",
+    "pinyin": "zhàomíng",
+    "definition": "illuminate"
+  },
+  {
+    "hanzi": "开放式",
+    "pinyin": "kāifàngshì",
+    "definition": "be open to general public or outside world"
+  },
+  {
+    "hanzi": "禁忌",
+    "pinyin": "jìnjì",
+    "definition": "tabu, vetanda, taboo, nono, contraindication"
+  },
+  {
+    "hanzi": "场景",
+    "pinyin": "chángyǐng",
+    "definition": "stage set, set, scenery, spectacle, scene, setting, set decoration"
+  },
+  {
+    "hanzi": "照明",
+    "pinyin": "zhàomíng",
+    "definition": "illuminate"
+  },
+  {
+    "hanzi": "光碟机",
+    "pinyin": "guāngdiéjī",
+    "definition": "CD ROM"
+  },
+  {
+    "hanzi": "吸引力",
+    "pinyin": "xīyǐnlì",
+    "definition": "chemical attraction, seduction, affinity, fascination, charm, prestige, attractive feature, traction, attractive force, drawing power, appeal, magnetism, attractiveness, appealingness, attraction"
+  },
+  {
+    "hanzi": "光芒",
+    "pinyin": "guāngmáng",
+    "definition": "ray_of_light, rays of light, brilliant ray, radiance"
+  },
+  {
+    "hanzi": "批判",
+    "pinyin": "pīpàn",
+    "definition": "critique"
+  },
+  {
+    "hanzi": "光明",
+    "pinyin": "guāngmíng",
+    "definition": "bright, promising, openhearted, guileless"
+  },
+  {
+    "hanzi": "行走",
+    "pinyin": "xíngzǒu",
+    "definition": "mooch, tread, go, make, navigate, go on foot, walk"
+  },
+  {
+    "hanzi": "低廉",
+    "pinyin": "dīlián",
+    "definition": "cheap, low-priced"
+  },
+  {
+    "hanzi": "改成",
+    "pinyin": "gǎichéng",
+    "definition": "change ... into, turn... into, change to"
+  },
+  {
+    "hanzi": "冷气",
+    "pinyin": "lěngqì",
+    "definition": "air conditioning"
+  },
+  {
+    "hanzi": "冰箱",
+    "pinyin": "bīngxiāng",
+    "definition": "frig, electric refrigerator, fridge, freezer, refrigerator, deepfreeze, icebox, reefer, cooler, refrigeratory"
+  },
+  {
+    "hanzi": "兼具",
+    "pinyin": "jiānjù",
+    "definition": "unite, have both...and..."
+  },
+  {
+    "hanzi": "多余",
+    "pinyin": "duōyū",
+    "definition": "spare, redundant, unnecessary, superfluous, uncalled-for, surplus"
+  },
+  {
+    "hanzi": "致词",
+    "pinyin": "zhìcí",
+    "definition": "make a speech"
+  },
+  {
+    "hanzi": "多多",
+    "pinyin": "duōduō",
+    "definition": "more"
+  },
+  {
+    "hanzi": "自私",
+    "pinyin": "zìsī",
+    "definition": "selfish, self-centered"
+  },
+  {
+    "hanzi": "亲近",
+    "pinyin": "qīnjìn",
+    "definition": "hobnob, hang out, affiliate, close, be close to, know, be on intimate terms with, intimate"
+  },
+  {
+    "hanzi": "保证",
+    "pinyin": "bǎozhèng",
+    "definition": "guarantee"
+  },
+  {
+    "hanzi": "洽询",
+    "pinyin": "qiàxún",
+    "definition": "talk over with"
+  },
+  {
+    "hanzi": "保",
+    "pinyin": "bǎo",
+    "definition": "keep, maintenance, preserve soil moisture, stand guarantor, defend, protection, ensure, stand guarantor for sb., preserve, preservation, warrant, bail, defence, protect, maintain, seek, guarantee"
+  },
+  {
+    "hanzi": "附",
+    "pinyin": "fù",
+    "definition": "comply with, agree to, appose, attachment, enclose, get close to, enclosure, depend on, add, be near, rely on, attach"
+  },
+  {
+    "hanzi": "致词",
+    "pinyin": "zhìcí",
+    "definition": "make a speech"
+  },
+  {
+    "hanzi": "办事处",
+    "pinyin": "bànshìchù",
+    "definition": "office, agency"
+  },
+  {
+    "hanzi": "封面",
+    "pinyin": "fēngmiàn",
+    "definition": "lid, book binding, title page of thread-bound book, front cover, front and back cover of book, back, cover, binding, title page"
+  },
+  {
+    "hanzi": "自称",
+    "pinyin": "zìchēng",
+    "definition": "purport, claim to be, give_out, profess, call oneself"
+  },
+  {
+    "hanzi": "小子",
+    "pinyin": "xiǎozi5",
+    "definition": "boy, guy, fellow"
+  },
+  {
+    "hanzi": "鉴于",
+    "pinyin": "jiànyū",
+    "definition": "conj.: in view of, seeing that"
+  },
+  {
+    "hanzi": "瞪",
+    "pinyin": "dèng",
+    "definition": "open wide, glom, stare, open (one's eyes) wide, stare at, glower, open one's eyes wide, glare"
+  },
+  {
+    "hanzi": "驱动",
+    "pinyin": "qūdòng",
+    "definition": "prompt, urge, spur on, drive"
+  },
+  {
+    "hanzi": "驱动",
+    "pinyin": "qūdòng",
+    "definition": "prompt, urge, spur on, drive"
+  },
+  {
+    "hanzi": "丛林",
+    "pinyin": "cónglín",
+    "definition": "underbrush, chaparral, bosquet, brake, bosk, jungle, forest, copse, jungly, brushwood, grove, thickset, underwood, thicket, mott, Budd. monastery"
+  },
+  {
+    "hanzi": "显示出",
+    "pinyin": "xiǎnshìchū",
+    "definition": "demonstrate, manifest, reveal, display, show"
+  },
+  {
+    "hanzi": "卅",
+    "pinyin": "sà",
+    "definition": "det.: thirty"
+  },
+  {
+    "hanzi": "方针",
+    "pinyin": "fāngzhēn",
+    "definition": "policy, guiding principle"
+  },
+  {
+    "hanzi": "考古学",
+    "pinyin": "kǎogǔxué",
+    "definition": "archeology, archaeology, archaeological, palaeology, paleology"
+  },
+  {
+    "hanzi": "上游",
+    "pinyin": "shàngyóu",
+    "definition": "upper reaches of river, advanced position"
+  },
+  {
+    "hanzi": "蟑螂",
+    "pinyin": "zhāngláng",
+    "definition": "blackbeetle, Asiatic cockroach, oriental cockroach, oriental roach, Blatta orientalis, cockroach, roach"
+  },
+  {
+    "hanzi": "户籍",
+    "pinyin": "hùjí",
+    "definition": "census register, registered permanent residence"
+  },
+  {
+    "hanzi": "公家",
+    "pinyin": "gōngjiā",
+    "definition": "state/public side"
+  },
+  {
+    "hanzi": "废纸",
+    "pinyin": "fèizhǐ",
+    "definition": "wastepaper"
+  },
+  {
+    "hanzi": "精华",
+    "pinyin": "jīnghuá",
+    "definition": "elite, prime, cream, plum, wale, goodness, distillation, substance, pink, quintessence, distillate, flower, extract, essence, gem, pick, marrow, soul, elixir"
+  },
+  {
+    "hanzi": "获利",
+    "pinyin": "huòlì",
+    "definition": "profit"
+  },
+  {
+    "hanzi": "唢呐",
+    "pinyin": "suǒnà",
+    "definition": "trumpet-like wind instrument"
+  },
+  {
+    "hanzi": "增多",
+    "pinyin": "zēngduō",
+    "definition": "increase (in number/quantity)"
+  },
+  {
+    "hanzi": "醒",
+    "pinyin": "xǐng",
+    "definition": "waken, come to, wake up, sober up, be clear in mind, regain consciousness, wake, be awake, awaken, arouse, come alive, awake, be striking to the eye"
+  },
+  {
+    "hanzi": "增多",
+    "pinyin": "zēngduō",
+    "definition": "increase (in number/quantity)"
+  },
+  {
+    "hanzi": "自私",
+    "pinyin": "zìsī",
+    "definition": "selfish, self-centered"
+  },
+  {
+    "hanzi": "说明会",
+    "pinyin": "shuōmínghuì",
+    "definition": "news conference, briefing"
+  },
+  {
+    "hanzi": "莲花",
+    "pinyin": "liánhuā",
+    "definition": "sacred lotus, lotus, Nelumbo nucifera, lotus flower, Indian lotus"
+  },
+  {
+    "hanzi": "下游",
+    "pinyin": "xiàyóu",
+    "definition": "lower reaches (of river), lower level"
+  },
+  {
+    "hanzi": "剧情",
+    "pinyin": "jùqíng",
+    "definition": "story line, story, plot, gut"
+  },
+  {
+    "hanzi": "回档",
+    "pinyin": "huídǎng",
+    "definition": "rise again (after a fall); pick up"
+  },
+  {
+    "hanzi": "匹",
+    "pinyin": "pī",
+    "definition": "m.[general]"
+  },
+  {
+    "hanzi": "一连",
+    "pinyin": "yīlián",
+    "definition": "in a row, in succession, running"
+  },
+  {
+    "hanzi": "召集",
+    "pinyin": "zhàojí",
+    "definition": "call together, convene"
+  },
+  {
+    "hanzi": "正视",
+    "pinyin": "zhèngshì",
+    "definition": "face squarely, face, face up to, look squarely at, envisage"
+  },
+  {
+    "hanzi": "擦",
+    "pinyin": "cā",
+    "definition": "swab, shave, spread on, scrape, apply sth. on, spread sth. on, touch lightly, wipe, grate, rub, put/spread on, brush past, brush, obliterate, chafe, efface, sweep, scratch, fray, put on, apply, besmear, put, polish, scrape into shreds, fret, scrub, mop, erase"
+  },
+  {
+    "hanzi": "废除",
+    "pinyin": "fèichú",
+    "definition": "abolish, abrogate, repeal"
+  },
+  {
+    "hanzi": "废除",
+    "pinyin": "fèichú",
+    "definition": "abolish, abrogate, repeal"
+  },
+  {
+    "hanzi": "蒋公",
+    "pinyin": "jiǎnggōng",
+    "definition": "Kuomingtang party leader and head of Nationalist Government in mainland China and Taiwan"
+  },
+  {
+    "hanzi": "环保署",
+    "pinyin": "huánbǎoshǔ",
+    "definition": "Environmental Protection Administration"
+  },
+  {
+    "hanzi": "实体",
+    "pinyin": "shítǐ",
+    "definition": "essence, reality, entity, substantive, substantiality, substantialness, existence, substratum, noumenon, substance, materiality"
+  },
+  {
+    "hanzi": "写实",
+    "pinyin": "xiěshí",
+    "definition": "paint realistically, realistic, write, write realistically, write or paint realistically"
+  },
+  {
+    "hanzi": "摇头",
+    "pinyin": "yáotóu",
+    "definition": "shake one's head"
+  },
+  {
+    "hanzi": "婆婆",
+    "pinyin": "pópó",
+    "definition": "husband's mother, mother-in-law, maternal grandmother"
+  },
+  {
+    "hanzi": "介词",
+    "pinyin": "jiècí",
+    "definition": "preposition"
+  },
+  {
+    "hanzi": "牛肉",
+    "pinyin": "nióuròu",
+    "definition": "beef"
+  },
+  {
+    "hanzi": "父子",
+    "pinyin": "fùzǐ",
+    "definition": "father and son"
+  },
+  {
+    "hanzi": "片子",
+    "pinyin": "piànzi5",
+    "definition": "a roll of film, film, movie, record, album"
+  },
+  {
+    "hanzi": "充电",
+    "pinyin": "chōngdiàn",
+    "definition": "charge, electricize, refresh"
+  },
+  {
+    "hanzi": "士兵",
+    "pinyin": "shìbīng",
+    "definition": "rank-and-file soldiers"
+  },
+  {
+    "hanzi": "旗下",
+    "pinyin": "qíxià",
+    "definition": "those under one's command"
+  },
+  {
+    "hanzi": "本能",
+    "pinyin": "běnnéng",
+    "definition": "whim, appetence, vagary, instinct, instinctive, native ability, inherent aptitude, impulse, caprice, faculty"
+  },
+  {
+    "hanzi": "学人",
+    "pinyin": "xuérén",
+    "definition": "scholar, letters, student, learned person"
+  },
+  {
+    "hanzi": "谱",
+    "pinyin": "pǔ",
+    "definition": "musical notation, table, chart, design, guide"
+  },
+  {
+    "hanzi": "卖给",
+    "pinyin": "màigěi",
+    "definition": "sell"
+  },
+  {
+    "hanzi": "战略",
+    "pinyin": "zhànluè",
+    "definition": "stratagem, tactical, strategics, tactics, strategy"
+  },
+  {
+    "hanzi": "选票",
+    "pinyin": "xuǎnpiào",
+    "definition": "ballot"
+  },
+  {
+    "hanzi": "政经",
+    "pinyin": "zhèngjīng",
+    "definition": "politics and economy"
+  },
+  {
+    "hanzi": "副院长",
+    "pinyin": "fùyuànzhǎng",
+    "definition": "president (of museum, subdean, subprincipal, etc.), institute, vice-director"
+  },
+  {
+    "hanzi": "国产",
+    "pinyin": "guóchǎn",
+    "definition": "made in China, made in our country, make domestically"
+  },
+  {
+    "hanzi": "曲目",
+    "pinyin": "qǔmù",
+    "definition": "title of music"
+  },
+  {
+    "hanzi": "就此",
+    "pinyin": "jiùcǐ",
+    "definition": "at this point, now, here and now, thus, thereon"
+  },
+  {
+    "hanzi": "强度",
+    "pinyin": "qiángdù",
+    "definition": "strength, intension, kick, degree, emphasis, intensity, depth, intensiveness"
+  },
+  {
+    "hanzi": "掩埋场",
+    "pinyin": "yǎnmáichǎng",
+    "definition": "nuisance ground, scrap heap"
+  },
+  {
+    "hanzi": "政务",
+    "pinyin": "zhèngwù",
+    "definition": "government affairs/administration, administration, government administration, affairs of state, government affairs"
+  },
+  {
+    "hanzi": "风情",
+    "pinyin": "fēngqíng",
+    "definition": "demeanour, flavor, information about wind, local customs, bearing, feelings, flirtatious expressions, amorous feelings"
+  },
+  {
+    "hanzi": "前后",
+    "pinyin": "qiánhòu",
+    "definition": "front and rear, around or about, altogether"
+  },
+  {
+    "hanzi": "坐下来",
+    "pinyin": "zuòxiàlái",
+    "definition": "sit down"
+  },
+  {
+    "hanzi": "奇妙",
+    "pinyin": "qímiào",
+    "definition": "wonderful, marvelous"
+  },
+  {
+    "hanzi": "居多",
+    "pinyin": "jūduō",
+    "definition": "be in majority"
+  },
+  {
+    "hanzi": "有线电视",
+    "pinyin": "yǒuxiàndiànshì",
+    "definition": "cable_television, cable television, cable system, narrowcast, cable television service, cable, cable TV"
+  },
+  {
+    "hanzi": "绝种",
+    "pinyin": "juézhǒng",
+    "definition": "become extinct, sterilize, die out"
+  },
+  {
+    "hanzi": "留给",
+    "pinyin": "liúgěi",
+    "definition": "retain/reserve for"
+  },
+  {
+    "hanzi": "男朋友",
+    "pinyin": "nánpéngyǒu",
+    "definition": "boyfriend"
+  },
+  {
+    "hanzi": "违背",
+    "pinyin": "wéibèi",
+    "definition": "violate, sin, go_against, infringe, go against, violation, belie, transgress, contravene, disobey, breach, break, run counter to"
+  },
+  {
+    "hanzi": "开课",
+    "pinyin": "kāikè",
+    "definition": "give a course, teach a subject, school begins"
+  },
+  {
+    "hanzi": "阳台",
+    "pinyin": "yángtái",
+    "definition": "veranda, pergola, patio, terrace, mirador, trysting place, balcony, gallery, piazza, gazebo, deck, verandah"
+  },
+  {
+    "hanzi": "嫌犯",
+    "pinyin": "xiánfàn",
+    "definition": "suspect"
+  },
+  {
+    "hanzi": "处分",
+    "pinyin": "chǔfèn",
+    "definition": "punishment"
+  },
+  {
+    "hanzi": "刺",
+    "pinyin": "cì",
+    "definition": "stab, prick, assassinate, irritate, stimulate, criticize"
+  },
+  {
+    "hanzi": "把握",
+    "pinyin": "bǎwò",
+    "definition": "assurance, certainty"
+  },
+  {
+    "hanzi": "朱",
+    "pinyin": "zhū",
+    "definition": "cinnabar, Zhu, Surname"
+  },
+  {
+    "hanzi": "吃亏",
+    "pinyin": "chīkuī",
+    "definition": "get the worst of it, come to grief, suffer loss, suffer losses"
+  },
+  {
+    "hanzi": "进军",
+    "pinyin": "jìnjūn",
+    "definition": "march, advance, advance (as of troops)"
+  },
+  {
+    "hanzi": "盲目",
+    "pinyin": "mángmù",
+    "definition": "blind"
+  },
+  {
+    "hanzi": "长辈",
+    "pinyin": "zhǎngbèi",
+    "definition": "seniority, better, elder, superior, senior, elder member of family, eldership, elder generation, superordinate, higher-up"
+  },
+  {
+    "hanzi": "病房",
+    "pinyin": "bìngfáng",
+    "definition": "sickroom, ward, hospital ward, hospital room"
+  },
+  {
+    "hanzi": "社交",
+    "pinyin": "shèjiāo",
+    "definition": "social_intercourse, converse, social interaction, social contact, interaction, social contact/interaction, coterie, sociality, commerce"
+  },
+  {
+    "hanzi": "破产",
+    "pinyin": "pòchǎn",
+    "definition": "go bankrupt, come to naught"
+  },
+  {
+    "hanzi": "采行",
+    "pinyin": "cǎixíng",
+    "definition": "phase, adopt, employ, select for use"
+  },
+  {
+    "hanzi": "起",
+    "pinyin": "qǐ",
+    "definition": "m.[event]"
+  },
+  {
+    "hanzi": "莫",
+    "pinyin": "mò",
+    "definition": "not, be/do not"
+  },
+  {
+    "hanzi": "船只",
+    "pinyin": "chuánzhī",
+    "definition": "boat, watercraft, marine, ship, vessel"
+  },
+  {
+    "hanzi": "都会区",
+    "pinyin": "dūhuìqū",
+    "definition": "city, metropolis"
+  },
+  {
+    "hanzi": "习俗",
+    "pinyin": "xísú",
+    "definition": "mores, custom, form, consuetudinary, institute, social custom, Sunna, convention, convenance, consuetude, conventionalism, ways, respectability, usage, manners, consuetudinal, conventionality"
+  },
+  {
+    "hanzi": "音量",
+    "pinyin": "yīnliàng",
+    "definition": "intensity, volume, quantity, loudness, volume of sound"
+  },
+  {
+    "hanzi": "自",
+    "pinyin": "zì",
+    "definition": "personally"
+  },
+  {
+    "hanzi": "破产",
+    "pinyin": "pòchǎn",
+    "definition": "go bankrupt, come to naught"
+  },
+  {
+    "hanzi": "托儿所",
+    "pinyin": "tuōérsuǒ",
+    "definition": "nursery school, foundling hospital, cr#4 eche, child-care centre, day_nursery, nursery, day care center, day care, day nursery, daycare, creche, cr#4eche, child-care center, play group, farm, preschool, nursery_school, playschool"
+  },
+  {
+    "hanzi": "台独",
+    "pinyin": "táidú",
+    "definition": "Independence of Taiwan"
+  },
+  {
+    "hanzi": "发育",
+    "pinyin": "fāyū",
+    "definition": "grow, develop"
+  },
+  {
+    "hanzi": "足球",
+    "pinyin": "zúqiú",
+    "definition": "soccer, football"
+  },
+  {
+    "hanzi": "目睹",
+    "pinyin": "mùdǔ",
+    "definition": "behold, see with one's own eyes, witness"
+  },
+  {
+    "hanzi": "名牌",
+    "pinyin": "míngpái",
+    "definition": "nameplate, name tag"
+  },
+  {
+    "hanzi": "沙乌地阿拉伯",
+    "pinyin": "shāwūdìālābó",
+    "definition": "Saudi Arabia"
+  },
+  {
+    "hanzi": "店面",
+    "pinyin": "diànmiàn",
+    "definition": "commodity section, storefront, parlor, shopfront"
+  },
+  {
+    "hanzi": "沙",
+    "pinyin": "shā",
+    "definition": "loam, Sha, sand, Surname, sth. granulated, sandy"
+  },
+  {
+    "hanzi": "哼",
+    "pinyin": "hēng",
+    "definition": "humph!"
+  },
+  {
+    "hanzi": "界限",
+    "pinyin": "jièxiàn",
+    "definition": "compass, ceiling, bounds, demarcation line, boundary, bourn, tether, purlieu, demarcation, precinct, pale, circumscription, borderland, limits, bound, ambit, butting, Rubicon, terminus, terminal point, confines, end, dividing line, extent, verge, terminus ad quem, limit, division, marge"
+  },
+  {
+    "hanzi": "枝",
+    "pinyin": "zhī",
+    "definition": "m.[general]"
+  },
+  {
+    "hanzi": "红树林",
+    "pinyin": "hóngshùlín",
+    "definition": "black mangrove, Rhizophora mangle, Avicennia marina, mangrove"
+  },
+  {
+    "hanzi": "后人",
+    "pinyin": "hòurén",
+    "definition": "posperity, descendants, posterity, later generations"
+  },
+  {
+    "hanzi": "容积率",
+    "pinyin": "róngjīlù",
+    "definition": "proportion"
+  },
+  {
+    "hanzi": "招",
+    "pinyin": "zhāo",
+    "definition": "m.[general]"
+  },
+  {
+    "hanzi": "何不",
+    "pinyin": "hébù",
+    "definition": "why not"
+  },
+  {
+    "hanzi": "一口气",
+    "pinyin": "yīkǒuqì",
+    "definition": "without a break, at one go, in one breath, holus-bolus"
+  },
+  {
+    "hanzi": "共同体",
+    "pinyin": "gòngtóngtǐ",
+    "definition": "community, integration"
+  },
+  {
+    "hanzi": "表",
+    "pinyin": "biǎo",
+    "definition": "timepiece, timekeeper, watch, ticker"
+  },
+  {
+    "hanzi": "漫长",
+    "pinyin": "màncháng",
+    "definition": "very long, endless"
+  },
+  {
+    "hanzi": "精英",
+    "pinyin": "jīngyīng",
+    "definition": "quintessence, flower, broth of a boy, elite, broth of a man, aristocracy, essence, cream, powerhouse"
+  },
+  {
+    "hanzi": "暂停",
+    "pinyin": "zhàntíng",
+    "definition": "suspense, suspended, suspend, intermit, set aside, discontinue, remit, stop, suspension, pause, break, time-out"
+  },
+  {
+    "hanzi": "整顿",
+    "pinyin": "zhěngdùn",
+    "definition": "rectify, reorganize"
+  },
+  {
+    "hanzi": "整顿",
+    "pinyin": "zhěngdùn",
+    "definition": "rectify, reorganize"
+  },
+  {
+    "hanzi": "暗示",
+    "pinyin": "ànshì",
+    "definition": "(drop a) hint, suggest"
+  },
+  {
+    "hanzi": "外公",
+    "pinyin": "wàigōng",
+    "definition": "maternal grandfather"
+  },
+  {
+    "hanzi": "提议",
+    "pinyin": "tíyì",
+    "definition": "propose, suggest"
+  },
+  {
+    "hanzi": "露",
+    "pinyin": "lù",
+    "definition": "betray, betrayal, appear, reveal, show"
+  },
+  {
+    "hanzi": "镇长",
+    "pinyin": "zhènzhǎng",
+    "definition": "town headman"
+  },
+  {
+    "hanzi": "警察局",
+    "pinyin": "jǐngchájú",
+    "definition": "police_station, copshop, station, police bureau, can, police, kotwalee, tana, the police"
+  },
+  {
+    "hanzi": "骑士",
+    "pinyin": "qíshì",
+    "definition": "equestrian, caballero, carpet knight, rider, cavalier, knight, knighthood, chevalier"
+  },
+  {
+    "hanzi": "联军",
+    "pinyin": "liánjūn",
+    "definition": "allied forces"
+  },
+  {
+    "hanzi": "继承",
+    "pinyin": "jìchéng",
+    "definition": "inherit, carry on"
+  },
+  {
+    "hanzi": "继承",
+    "pinyin": "jìchéng",
+    "definition": "inherit, carry on"
+  },
+  {
+    "hanzi": "双向",
+    "pinyin": "shuāngxiàng",
+    "definition": "bipartite, double-edged, two-sided, bidirectional, double-faced"
+  },
+  {
+    "hanzi": "日军",
+    "pinyin": "rìjūn",
+    "definition": "Japanese Army"
+  },
+  {
+    "hanzi": "报酬",
+    "pinyin": "bàochóu",
+    "definition": "emolument, reward, fee, recompense, earnings, gratuity, requital, retribution, price, harvest, remuneration, quittance, pay, consideration, salary, compensation, honorarium, payment, meed, gratification, wage, guerdon"
+  },
+  {
+    "hanzi": "发育",
+    "pinyin": "fāyū",
+    "definition": "grow, develop"
+  },
+  {
+    "hanzi": "程",
+    "pinyin": "chéng",
+    "definition": "distance, journey, procedure, order, regulation, rule"
+  },
+  {
+    "hanzi": "新任",
+    "pinyin": "xīnrèn",
+    "definition": "newly appointed"
+  },
+  {
+    "hanzi": "开花",
+    "pinyin": "kāihuā",
+    "definition": "burst forth, flower, bloom, split apart, explode, blossom, effloresce, unfold, feel elated, break apart, blow"
+  },
+  {
+    "hanzi": "慈悲",
+    "pinyin": "cíbēi",
+    "definition": "mercy, benevolence, pity"
+  },
+  {
+    "hanzi": "慈悲",
+    "pinyin": "cíbēi",
+    "definition": "mercy, benevolence, pity"
+  },
+  {
+    "hanzi": "饲养",
+    "pinyin": "sìyǎng",
+    "definition": "raise (animals/etc.)"
+  },
+  {
+    "hanzi": "栖息",
+    "pinyin": "qīxí",
+    "definition": "inhabit, alight, locate, dwell, rest (of birds), perch, settle, sit, light, relocate, halt, roost, rest"
+  },
+  {
+    "hanzi": "试试",
+    "pinyin": "shìshì",
+    "definition": "try, assay, try out, have a try, attempt, essay, sample, seek, taste"
+  },
+  {
+    "hanzi": "诠释",
+    "pinyin": "quánshì",
+    "definition": "annotation, interpretation"
+  },
+  {
+    "hanzi": "绝大多数",
+    "pinyin": "juédàduōshù",
+    "definition": "det.: most of, majority"
+  },
+  {
+    "hanzi": "报到",
+    "pinyin": "bàodào",
+    "definition": "check in, register, registration, report for duty, appear, report, check_in"
+  },
+  {
+    "hanzi": "损失",
+    "pinyin": "sǔnshī",
+    "definition": "lose"
+  },
+  {
+    "hanzi": "极端",
+    "pinyin": "jíduān",
+    "definition": "extreme, exceeding"
+  },
+  {
+    "hanzi": "爱护",
+    "pinyin": "àihù",
+    "definition": "cherish, treasure, take good care of"
+  },
+  {
+    "hanzi": "爱护",
+    "pinyin": "àihù",
+    "definition": "cherish, treasure, take good care of"
+  },
+  {
+    "hanzi": "微",
+    "pinyin": "wéi",
+    "definition": "slightly"
+  },
+  {
+    "hanzi": "脑海",
+    "pinyin": "nǎohǎi",
+    "definition": "brain, mind"
+  },
+  {
+    "hanzi": "琴",
+    "pinyin": "qín",
+    "definition": "qin, a seven-stringed plucked instrument, general name for stringed instruments, zither-like instrument, general name for certain musical instruments"
+  },
+  {
+    "hanzi": "饲养",
+    "pinyin": "sìyǎng",
+    "definition": "raise (animals/etc.)"
+  },
+  {
+    "hanzi": "动向",
+    "pinyin": "dòngxiàng",
+    "definition": "set, development, tendency, trend, movement, drift"
+  },
+  {
+    "hanzi": "精美",
+    "pinyin": "jīngměi",
+    "definition": "exquisite, elegant"
+  },
+  {
+    "hanzi": "班长",
+    "pinyin": "bānzhǎng",
+    "definition": "monitor, (work) team leader, squad leader, team leader, class monitor"
+  },
+  {
+    "hanzi": "创立",
+    "pinyin": "chuànglì",
+    "definition": "found, originate"
+  },
+  {
+    "hanzi": "微笑",
+    "pinyin": "wéixiào",
+    "definition": "smile"
+  },
+  {
+    "hanzi": "脑筋",
+    "pinyin": "nǎojīn",
+    "definition": "way of thinking, ideas, head, mind, skull, brains"
+  },
+  {
+    "hanzi": "雷达",
+    "pinyin": "léidá",
+    "definition": "radiolocator, radiodetector, locator, microwave radar, radiolocation, early warning radar, radio detection and ranging, radar"
+  },
+  {
+    "hanzi": "墨",
+    "pinyin": "mò",
+    "definition": "learning, Chinese ink, ink stick, Mohist School, Mexico, Mohism, ink, handwriting, ink cake, Surname, China ink"
+  },
+  {
+    "hanzi": "整修",
+    "pinyin": "zhěngxiū",
+    "definition": "renovate, recondition"
+  },
+  {
+    "hanzi": "踩",
+    "pinyin": "cǎi",
+    "definition": "tread, tramp, tromp, scrunch, trample, walk, step, step on"
+  },
+  {
+    "hanzi": "实在",
+    "pinyin": "shízài",
+    "definition": "true, real, honest, dependable"
+  },
+  {
+    "hanzi": "精美",
+    "pinyin": "jīngměi",
+    "definition": "exquisite, elegant"
+  },
+  {
+    "hanzi": "发现",
+    "pinyin": "fāxiàn",
+    "definition": "discovery"
+  },
+  {
+    "hanzi": "整修",
+    "pinyin": "zhěngxiū",
+    "definition": "renovate, recondition"
+  },
+  {
+    "hanzi": "报表",
+    "pinyin": "bàobiǎo",
+    "definition": "forms for reporting statistics, statement, forms for reporting statistics/etc., forms for reporting etc., report form, etc."
+  },
+  {
+    "hanzi": "讽刺",
+    "pinyin": "fèngcì",
+    "definition": "satirize, mock"
+  },
+  {
+    "hanzi": "中毒",
+    "pinyin": "zhòngdú",
+    "definition": "poison, taint, be poisoned"
+  },
+  {
+    "hanzi": "下跌",
+    "pinyin": "xiàdié",
+    "definition": "fall, decline, decrease"
+  },
+  {
+    "hanzi": "切除",
+    "pinyin": "qiēchú",
+    "definition": "excise, resect"
+  },
+  {
+    "hanzi": "片段",
+    "pinyin": "piànduàn",
+    "definition": "part, extract, fragment"
+  },
+  {
+    "hanzi": "平方公尺",
+    "pinyin": "píngfānggōngchǐ",
+    "definition": "m.[standard]"
+  },
+  {
+    "hanzi": "公约",
+    "pinyin": "gōngyuē",
+    "definition": "convention, pact, joint pledge"
+  },
+  {
+    "hanzi": "火灾",
+    "pinyin": "huǒzāi",
+    "definition": "fire disaster, conflagration"
+  },
+  {
+    "hanzi": "不好意思",
+    "pinyin": "bùhǎoyìsī",
+    "definition": "embarrassed, be ill at ease, find it embarrassing, feel embarrassed"
+  },
+  {
+    "hanzi": "趋向",
+    "pinyin": "qūxiàng",
+    "definition": "tend/incline to"
+  },
+  {
+    "hanzi": "樱花",
+    "pinyin": "yīnghuā",
+    "definition": "oriental cherry"
+  },
+  {
+    "hanzi": "讽刺",
+    "pinyin": "fèngcì",
+    "definition": "satirize, mock"
+  },
+  {
+    "hanzi": "备受",
+    "pinyin": "bèishòu",
+    "definition": "fully experience (good or bad)"
+  },
+  {
+    "hanzi": "来往",
+    "pinyin": "láiwǎng",
+    "definition": "associate, contact"
+  },
+  {
+    "hanzi": "来往",
+    "pinyin": "láiwǎng",
+    "definition": "associate, contact"
+  },
+  {
+    "hanzi": "法",
+    "pinyin": "fà",
+    "definition": "France"
+  },
+  {
+    "hanzi": "灾害",
+    "pinyin": "zāihài",
+    "definition": "tragedy, cataclysm, visitation, fatality, ravage, catastrophe, disaster, suffering, calamity"
+  },
+  {
+    "hanzi": "何以",
+    "pinyin": "héyǐ",
+    "definition": "why, wherefor, why?, wherefore, how come, how?, whereto, how"
+  },
+  {
+    "hanzi": "奇特",
+    "pinyin": "qítè",
+    "definition": "unusual, geezer, queer, exotic, peculiar"
+  },
+  {
+    "hanzi": "沙国",
+    "pinyin": "shāguó",
+    "definition": "short of Saudi Arabia"
+  },
+  {
+    "hanzi": "待",
+    "pinyin": "dāi",
+    "definition": "stay"
+  },
+  {
+    "hanzi": "抱",
+    "pinyin": "bào",
+    "definition": "hold (a particular opinion or belief)"
+  },
+  {
+    "hanzi": "俄罗斯",
+    "pinyin": "èluósī",
+    "definition": "Russia, Russians"
+  },
+  {
+    "hanzi": "当中",
+    "pinyin": "dāngzhōng",
+    "definition": "in the middle/center"
+  },
+  {
+    "hanzi": "性情",
+    "pinyin": "xìngqíng",
+    "definition": "constitution, fibre, aptness, acerbity, fiber, affection, temper, disposition, individuality, blood, streak, temperament"
+  },
+  {
+    "hanzi": "注意力",
+    "pinyin": "zhùyìlì",
+    "definition": "mind, attention, concentration"
+  },
+  {
+    "hanzi": "备受",
+    "pinyin": "bèishòu",
+    "definition": "fully experience (good or bad)"
+  },
+  {
+    "hanzi": "做完",
+    "pinyin": "zuòwán",
+    "definition": "get_over, fulfill, finish off, mop_up, get over, mop up, complete, clear up, finish up, polish_off, knock_off, get through, accomplish, polish off"
+  },
+  {
+    "hanzi": "基准",
+    "pinyin": "jīzhǔn",
+    "definition": "guideline, foundation, base, norm, standard, criterion, postulate, fundament, principle, groundwork, modulus, yardstick, benchmark, standard criterion, module, cornerstone, touchstone, datum, basis, fiducial"
+  },
+  {
+    "hanzi": "规程",
+    "pinyin": "guīchéng",
+    "definition": "rules, rules of order, parliamentary law, rule, regulation, regulations, parliamentary procedure, order"
+  },
+  {
+    "hanzi": "伞",
+    "pinyin": "sǎn",
+    "definition": "fimbria, brolly, sth. shaped like an umbrella, umbrella, mush, gamp, bumbershoot"
+  },
+  {
+    "hanzi": "打败",
+    "pinyin": "dǎbài",
+    "definition": "rout, outplay, whip, scupper, wallop, mop up, finish, suffer a defeat, overrule, overwhelm, flog, rack up, whop, be beaten, overpower, subdue, overmatch, snooker, be defeated, larrup, outfight, overmaster, floor, whup, knock_off, best, drub, defeat, euchre, confound, lick, fall, outrival, worst, overthrow, convince, vanquish, beat, pip"
+  },
+  {
+    "hanzi": "资讯业",
+    "pinyin": "zīxùnyè",
+    "definition": "information technology"
+  },
+  {
+    "hanzi": "创立",
+    "pinyin": "chuànglì",
+    "definition": "found, originate"
+  },
+  {
+    "hanzi": "微笑",
+    "pinyin": "wéixiào",
+    "definition": "smile"
+  },
+  {
+    "hanzi": "买卖",
+    "pinyin": "mǎimài",
+    "definition": "do business, carry on trade"
+  },
+  {
+    "hanzi": "意念",
+    "pinyin": "yìniàn",
+    "definition": "consciousness, will, motif, thing, intellection, thought, impression, idea"
+  },
+  {
+    "hanzi": "穿过",
+    "pinyin": "chuānguò",
+    "definition": "thread, pass through, traverse, penetrate, hook, go through, riddle, pierce, twist, go across, cleave, pass, lace, put_through, lace up, cut_through, cut across, cross, break, shoot"
+  },
+  {
+    "hanzi": "趋向",
+    "pinyin": "qūxiàng",
+    "definition": "tend/incline to"
+  },
+  {
+    "hanzi": "精密",
+    "pinyin": "jīngmì",
+    "definition": "accurate, delicate, precise"
+  },
+  {
+    "hanzi": "广义",
+    "pinyin": "guǎngyì",
+    "definition": "broad sense"
+  },
+  {
+    "hanzi": "着急",
+    "pinyin": "zhāojí",
+    "definition": "worry, feel anxious"
+  },
+  {
+    "hanzi": "收回",
+    "pinyin": "shōuhuí",
+    "definition": "take back, call in, recall, withdraw, countermand"
+  },
+  {
+    "hanzi": "补偿",
+    "pinyin": "bǔcháng",
+    "definition": "compensate, make up"
+  },
+  {
+    "hanzi": "欺负",
+    "pinyin": "qīfù",
+    "definition": "browbeat, take advantage of, pick on"
+  },
+  {
+    "hanzi": "欺负",
+    "pinyin": "qīfù",
+    "definition": "browbeat, take advantage of, pick on"
+  },
+  {
+    "hanzi": "跌破",
+    "pinyin": "diépò",
+    "definition": "fall, drop"
+  },
+  {
+    "hanzi": "区隔",
+    "pinyin": "qūgé",
+    "definition": "differentiate, set apart"
+  },
+  {
+    "hanzi": "揭开",
+    "pinyin": "jiēkāi",
+    "definition": "open, disclose, resolve, unclose, uncover, revelation, reveal, unveil, bring out"
+  },
+  {
+    "hanzi": "选用",
+    "pinyin": "xuǎnyòng",
+    "definition": "select and use/apply"
+  },
+  {
+    "hanzi": "盛",
+    "pinyin": "shèng",
+    "definition": "flourishing, prosperous, vigorous, energetic, magnificent, grand, abundant, plentiful, popular, widespread"
+  },
+  {
+    "hanzi": "得很",
+    "pinyin": "de5hěn",
+    "definition": "very, quite, awfully"
+  },
+  {
+    "hanzi": "株",
+    "pinyin": "zhū",
+    "definition": "stub, individual plant, stem of a plant, plant, trunk of tree, stem of plant, trunk of a tree, m.[general],"
+  },
+  {
+    "hanzi": "被单",
+    "pinyin": "bèidān",
+    "definition": "(bed) sheet"
+  },
+  {
+    "hanzi": "财经",
+    "pinyin": "cáijīng",
+    "definition": "finance and economics"
+  },
+  {
+    "hanzi": "患",
+    "pinyin": "huàn",
+    "definition": "contract (an illness)"
+  },
+  {
+    "hanzi": "婚纱",
+    "pinyin": "hūnshā",
+    "definition": "gown, wedding dress"
+  },
+  {
+    "hanzi": "教官",
+    "pinyin": "jiàoguān",
+    "definition": "drillmaster, drill master, instructor, military instructor, schoolmaster"
+  },
+  {
+    "hanzi": "感冒",
+    "pinyin": "gǎnmào",
+    "definition": "catch cold"
+  },
+  {
+    "hanzi": "干涉",
+    "pinyin": "gānshè",
+    "definition": "interfere, intervene, meddle"
+  },
+  {
+    "hanzi": "关闭",
+    "pinyin": "guānbì",
+    "definition": "close, shut (down)"
+  },
+  {
+    "hanzi": "关闭",
+    "pinyin": "guānbì",
+    "definition": "close, shut (down)"
+  },
+  {
+    "hanzi": "联队",
+    "pinyin": "liánduì",
+    "definition": "wing (of air force), league, wing, regiment"
+  },
+  {
+    "hanzi": "有一点",
+    "pinyin": "yǒuyìdiǎn",
+    "definition": "a little bit"
+  },
+  {
+    "hanzi": "不符",
+    "pinyin": "bùfú",
+    "definition": "be inconsistent (with)"
+  },
+  {
+    "hanzi": "小鸟",
+    "pinyin": "xiǎoniǎo",
+    "definition": "small bird"
+  },
+  {
+    "hanzi": "世代",
+    "pinyin": "shìdài",
+    "definition": "generation, period, epoch"
+  },
+  {
+    "hanzi": "调适",
+    "pinyin": "tiáoshì",
+    "definition": "adjust"
+  },
+  {
+    "hanzi": "化妆",
+    "pinyin": "huàzhuāng",
+    "definition": "make_up, bepaint, masquerade, put on make-up, make up, apply makeup, titivate"
+  },
+  {
+    "hanzi": "融入",
+    "pinyin": "róngrù",
+    "definition": "melt, thaw, blend, merge"
+  },
+  {
+    "hanzi": "本事",
+    "pinyin": "běnshì",
+    "definition": "literary source material, know-how, proficiency, skill, prowess, this matter, ability, capability"
+  },
+  {
+    "hanzi": "龙山寺",
+    "pinyin": "lóngshānsì",
+    "definition": "Lung-Shan Temple"
+  },
+  {
+    "hanzi": "调适",
+    "pinyin": "tiáoshì",
+    "definition": "adjust"
+  },
+  {
+    "hanzi": "摧毁",
+    "pinyin": "cuīhuǐ",
+    "definition": "take_out, blot_out, bang up, blast, devastate, mow_down, zap, tobreak, wreck, smash up, bust up, smite, destroy, bust, demolish, knock_down, destruction, ravage, unbuild, liquidate, smash, deflower, knock_off, break, wrack"
+  },
+  {
+    "hanzi": "对岸",
+    "pinyin": "duìàn",
+    "definition": "the opoosite shore, the other side, other side of river"
+  },
+  {
+    "hanzi": "浓度",
+    "pinyin": "nóngdù",
+    "definition": "vividness, density, saturation, consistency, depth, intensity, thickness, deepness, fulness, chroma, concentration, consistence"
+  },
+  {
+    "hanzi": "选用",
+    "pinyin": "xuǎnyòng",
+    "definition": "select and use/apply"
+  },
+  {
+    "hanzi": "稀有",
+    "pinyin": "xīyǒu",
+    "definition": "rare, unusual"
+  },
+  {
+    "hanzi": "充斥",
+    "pinyin": "chōngchì",
+    "definition": "flood, congest, be full of"
+  },
+  {
+    "hanzi": "戒",
+    "pinyin": "jiè",
+    "definition": "keep off, guard against, drop, keep from, stop, refrain from, desist from, forbear from, abstain from, exhort, avoid, admonition, give up, admonish, exhortation, warn"
+  },
+  {
+    "hanzi": "性行为",
+    "pinyin": "xìngxíngwéi",
+    "definition": "erotism, sexual activity, the sex act, sexual behaviour, eroticism, sex, sex activity, sexuality, sex act, intimacy"
+  },
+  {
+    "hanzi": "界定",
+    "pinyin": "jièdìng",
+    "definition": "define"
+  },
+  {
+    "hanzi": "毒",
+    "pinyin": "dú",
+    "definition": "kill with poison"
+  },
+  {
+    "hanzi": "抵抗",
+    "pinyin": "dǐkàng",
+    "definition": "resist, stand up to"
+  },
+  {
+    "hanzi": "前任",
+    "pinyin": "qiánrèn",
+    "definition": "predecessor"
+  },
+  {
+    "hanzi": "各行各业",
+    "pinyin": "gèhánggèyè",
+    "definition": "all professions, all trades, trades"
+  },
+  {
+    "hanzi": "良性",
+    "pinyin": "liángxìng",
+    "definition": "plus, benign, positive"
+  },
+  {
+    "hanzi": "伴随",
+    "pinyin": "bànsuí",
+    "definition": "accompany, follow"
+  },
+  {
+    "hanzi": "抵抗",
+    "pinyin": "dǐkàng",
+    "definition": "resist, stand up to"
+  },
+  {
+    "hanzi": "依靠",
+    "pinyin": "yīkào",
+    "definition": "rely/depend on"
+  },
+  {
+    "hanzi": "来不及",
+    "pinyin": "láibùjí",
+    "definition": "be too late to do sth.,"
+  },
+  {
+    "hanzi": "州",
+    "pinyin": "zhōu",
+    "definition": "state, an administrative division, county, nomarchy, administrative division, shire, cantonal, presidency, government, eparchy, (autonomous) prefecture, prefecture, province, canton, commonwealth"
+  },
+  {
+    "hanzi": "依靠",
+    "pinyin": "yīkào",
+    "definition": "rely/depend on"
+  },
+  {
+    "hanzi": "异性",
+    "pinyin": "yìxìng",
+    "definition": "metamerism, isomerism, heterosexual, opposite sex, different nature"
+  },
+  {
+    "hanzi": "官僚",
+    "pinyin": "guānliáo",
+    "definition": "bureaucrats, bureaucracy"
+  },
+  {
+    "hanzi": "猴子",
+    "pinyin": "hóuzi5",
+    "definition": "glib, ape, simian, glib/sharp-tongued person, clever, clever person, clever/glib/sharp-tongued person, monkey, sharp-tongued person, jackanapes"
+  },
+  {
+    "hanzi": "再说",
+    "pinyin": "zàishuō",
+    "definition": "furthermore, besides"
+  },
+  {
+    "hanzi": "伴随",
+    "pinyin": "bànsuí",
+    "definition": "accompany, follow"
+  },
+  {
+    "hanzi": "收回",
+    "pinyin": "shōuhuí",
+    "definition": "take back, call in, recall, withdraw, countermand"
+  },
+  {
+    "hanzi": "肩膀",
+    "pinyin": "jiānbǎng",
+    "definition": "shoulder"
+  },
+  {
+    "hanzi": "疏忽",
+    "pinyin": "shūhū",
+    "definition": "ignore, neglect"
+  },
+  {
+    "hanzi": "白云",
+    "pinyin": "báiyún",
+    "definition": "white cloud"
+  },
+  {
+    "hanzi": "契机",
+    "pinyin": "qìjī",
+    "definition": "moment, critical point, turning, turning point, juncture, moment o turning point, turning/critical point, momentum"
+  },
+  {
+    "hanzi": "通俗",
+    "pinyin": "tōngsú",
+    "definition": "pop, common, popular"
+  },
+  {
+    "hanzi": "高潮",
+    "pinyin": "gāocháo",
+    "definition": "water, high_tide, crescendo, coming, high tide/water, high tide, climax, upsurge, eagre, springtide, tidemark, sexual climax, blowoff, orgasm, culmination, payoff, wave, high, high water"
+  },
+  {
+    "hanzi": "桃园县",
+    "pinyin": "táoyuánxiàn",
+    "definition": "Tao Yuan ( a County in Taiwan)"
+  },
+  {
+    "hanzi": "连战",
+    "pinyin": "liánzhàn",
+    "definition": "ex-vice-president of Taiwan"
+  },
+  {
+    "hanzi": "清理",
+    "pinyin": "qīnglǐ",
+    "definition": "settle (accounts/etc.), sort out affairs"
+  },
+  {
+    "hanzi": "清理",
+    "pinyin": "qīnglǐ",
+    "definition": "settle (accounts/etc.), sort out affairs"
+  },
+  {
+    "hanzi": "疏忽",
+    "pinyin": "shūhū",
+    "definition": "ignore, neglect"
+  },
+  {
+    "hanzi": "动用",
+    "pinyin": "dòngyòng",
+    "definition": "put to use, draw on, put ... to use, use, employ, employment"
+  },
+  {
+    "hanzi": "表现出来",
+    "pinyin": "biǎoxiànchūlái",
+    "definition": "show"
+  },
+  {
+    "hanzi": "区隔",
+    "pinyin": "qūgé",
+    "definition": "differentiate, set apart"
+  },
+  {
+    "hanzi": "海豚",
+    "pinyin": "hǎitún",
+    "definition": "dolphin"
+  },
+  {
+    "hanzi": "抵",
+    "pinyin": "dǐ",
+    "definition": "arrive at"
+  },
+  {
+    "hanzi": "迫切",
+    "pinyin": "pòqiè",
+    "definition": "imminent, imperative, pressing, urgent"
+  },
+  {
+    "hanzi": "金属",
+    "pinyin": "jīnshǔ",
+    "definition": "spangle, metallic, metalline, tincture, malleability, metal, metals in general"
+  },
+  {
+    "hanzi": "恭喜",
+    "pinyin": "gōngxǐ",
+    "definition": "congratulate"
+  },
+  {
+    "hanzi": "书写",
+    "pinyin": "shūxiě",
+    "definition": "write"
+  },
+  {
+    "hanzi": "脂肪",
+    "pinyin": "zhīfáng",
+    "definition": "grease, fat, axunge, adipose, fatness, avoirdupois, fattiness, adipose tissue, fatty tissue"
+  },
+  {
+    "hanzi": "书写",
+    "pinyin": "shūxiě",
+    "definition": "write"
+  },
+  {
+    "hanzi": "捐赠",
+    "pinyin": "juānzèng",
+    "definition": "contribute (as gift), donate, present"
+  },
+  {
+    "hanzi": "展望",
+    "pinyin": "zhǎnwàng",
+    "definition": "look into the distance/future"
+  },
+  {
+    "hanzi": "处罚",
+    "pinyin": "chǔfá",
+    "definition": "punish, penalize"
+  },
+  {
+    "hanzi": "接触到",
+    "pinyin": "jiēchùdào",
+    "definition": "come into contact with, get in touch with"
+  },
+  {
+    "hanzi": "捐赠",
+    "pinyin": "juānzèng",
+    "definition": "contribute (as gift), donate, present"
+  },
+  {
+    "hanzi": "眼见",
+    "pinyin": "yǎnjiàn",
+    "definition": "see sth. happen, watch helplessly"
+  },
+  {
+    "hanzi": "舍不得",
+    "pinyin": "shěbùdé",
+    "definition": "be grudge doing sth., spare, begrudge, loathe to part with"
+  },
+  {
+    "hanzi": "帐",
+    "pinyin": "zhàng",
+    "definition": "reckoning, score, account statement, debt, screen, bill, credit, curtain, account book, accounting, canopy, account, military tent, tally, accounts"
+  },
+  {
+    "hanzi": "记载",
+    "pinyin": "jìzài",
+    "definition": "record, account"
+  },
+  {
+    "hanzi": "栽培",
+    "pinyin": "zāipéi",
+    "definition": "cultivate, grow, foster, train, educate, give/receive patronage"
+  },
+  {
+    "hanzi": "野心",
+    "pinyin": "yěxīn",
+    "definition": "greed, careerism, ambition, ambitiousness, wild ambition"
+  },
+  {
+    "hanzi": "书画",
+    "pinyin": "shūhuà",
+    "definition": "painting and calligraphy"
+  },
+  {
+    "hanzi": "炎热",
+    "pinyin": "yánrè",
+    "definition": "scorching/blazing hot"
+  },
+  {
+    "hanzi": "并购",
+    "pinyin": "bìnggòu",
+    "definition": "merge into"
+  },
+  {
+    "hanzi": "除",
+    "pinyin": "chú",
+    "definition": "get rid of, eliminate, remove"
+  },
+  {
+    "hanzi": "专利权",
+    "pinyin": "zhuānlìquán",
+    "definition": "patent, monopoly, patent right, patent (right), concession, patent_right"
+  },
+  {
+    "hanzi": "迎",
+    "pinyin": "yíng",
+    "definition": "greet, go to meet, reception, meet face to face, face, receive, welcome, move towards, meet"
+  },
+  {
+    "hanzi": "陪同",
+    "pinyin": "péitóng",
+    "definition": "accompany"
+  },
+  {
+    "hanzi": "改选",
+    "pinyin": "gǎixuǎn",
+    "definition": "hold another election"
+  },
+  {
+    "hanzi": "老旧",
+    "pinyin": "lǎojiù",
+    "definition": "old"
+  },
+  {
+    "hanzi": "老子",
+    "pinyin": "lǎozǐ",
+    "definition": "Lao-zi (founder of Daoism)"
+  },
+  {
+    "hanzi": "身影",
+    "pinyin": "shēnyǐng",
+    "definition": "figure, silhouette, form"
+  },
+  {
+    "hanzi": "改选",
+    "pinyin": "gǎixuǎn",
+    "definition": "hold another election"
+  },
+  {
+    "hanzi": "海滩",
+    "pinyin": "hǎitān",
+    "definition": "seabeach, seaside, sea beach, foreshore, beach"
+  },
+  {
+    "hanzi": "便民",
+    "pinyin": "biànmín",
+    "definition": "be convenient to the people"
+  },
+  {
+    "hanzi": "所幸",
+    "pinyin": "suǒxìng",
+    "definition": "luckily"
+  },
+  {
+    "hanzi": "空白",
+    "pinyin": "kòngbái",
+    "definition": "blank space"
+  },
+  {
+    "hanzi": "空白",
+    "pinyin": "kòngbái",
+    "definition": "blank space"
+  },
+  {
+    "hanzi": "展望",
+    "pinyin": "zhǎnwàng",
+    "definition": "look into the distance/future"
+  },
+  {
+    "hanzi": "知名度",
+    "pinyin": "zhīmíngdù",
+    "definition": "celebrity rating"
+  },
+  {
+    "hanzi": "师院",
+    "pinyin": "shīyuàn",
+    "definition": "teachers' college"
+  },
+  {
+    "hanzi": "成大",
+    "pinyin": "chéngdà",
+    "definition": "National Cheng Kung University"
+  },
+  {
+    "hanzi": "爆炸",
+    "pinyin": "bàozhà",
+    "definition": "explode, blow up"
+  },
+  {
+    "hanzi": "落地",
+    "pinyin": "luòdì",
+    "definition": "be born (of babies), born, fail, fall to the ground, be born"
+  },
+  {
+    "hanzi": "童话",
+    "pinyin": "tónghuà",
+    "definition": "fairy story, fairy tale, fairy-tale, children's stories, fairytale, fairy tales"
+  },
+  {
+    "hanzi": "跨国",
+    "pinyin": "kuàguó",
+    "definition": "transnationa, transnational, multinational"
+  },
+  {
+    "hanzi": "陪同",
+    "pinyin": "péitóng",
+    "definition": "accompany"
+  },
+  {
+    "hanzi": "乃至",
+    "pinyin": "nǎizhì",
+    "definition": "conj.: even, go so far as to"
+  },
+  {
+    "hanzi": "火山",
+    "pinyin": "huǒshān",
+    "definition": "volcano"
+  },
+  {
+    "hanzi": "乃至",
+    "pinyin": "nǎizhì",
+    "definition": "conj.: even, go so far as to"
+  },
+  {
+    "hanzi": "付款",
+    "pinyin": "fùkuǎn",
+    "definition": "ante_up, ante up, foot, pay out, pay up, pay, shell_out, cash, pay a sum of money, disburse"
+  },
+  {
+    "hanzi": "工业化",
+    "pinyin": "gōngyèhuà",
+    "definition": "industrialise, industrialization, urbanize, industrialize"
+  },
+  {
+    "hanzi": "麻雀",
+    "pinyin": "máquè",
+    "definition": "Passer domesticus, gutter-bird, spadger, house sparrow, sparrow, mahjong, tree sparrow, Passer montanus, hedge sparrow, Prunella modularis, dunnock, house_sparrow, English sparrow"
+  },
+  {
+    "hanzi": "大麻",
+    "pinyin": "dàmá",
+    "definition": "marijuana"
+  },
+  {
+    "hanzi": "路",
+    "pinyin": "lù",
+    "definition": "m.[general]"
+  },
+  {
+    "hanzi": "比重",
+    "pinyin": "bǐzhòng",
+    "definition": "proportion, specific gravity"
+  },
+  {
+    "hanzi": "爆炸",
+    "pinyin": "bàozhà",
+    "definition": "explode, blow up"
+  },
+  {
+    "hanzi": "护士",
+    "pinyin": "hùshì",
+    "definition": "graduate nurse, nana, nurse, sister, trained nurse, (hospital) nurse"
+  },
+  {
+    "hanzi": "跷家",
+    "pinyin": "qiàojiā",
+    "definition": "run away from home"
+  },
+  {
+    "hanzi": "艰苦",
+    "pinyin": "jiānkǔ",
+    "definition": "arduous"
+  },
+  {
+    "hanzi": "艰难",
+    "pinyin": "jiānnán",
+    "definition": "difficult, hard"
+  },
+  {
+    "hanzi": "蟋蟀",
+    "pinyin": "xīshuài",
+    "definition": "grig, cricket"
+  },
+  {
+    "hanzi": "艰难",
+    "pinyin": "jiānnán",
+    "definition": "difficult, hard"
+  },
+  {
+    "hanzi": "艰苦",
+    "pinyin": "jiānkǔ",
+    "definition": "arduous"
+  },
+  {
+    "hanzi": "栽培",
+    "pinyin": "zāipéi",
+    "definition": "cultivate, grow, foster, train, educate, give/receive patronage"
+  },
+  {
+    "hanzi": "士气",
+    "pinyin": "shìqì",
+    "definition": "morale"
+  },
+  {
+    "hanzi": "雕像",
+    "pinyin": "diāoxiàng",
+    "definition": "imagery, effigy, statue, torso, representation, statuary, glyph"
+  },
+  {
+    "hanzi": "平地",
+    "pinyin": "píngdì",
+    "definition": "smooth, level, area, surface area, level/flat ground, flatland, expanse, flat ground, level ground"
+  },
+  {
+    "hanzi": "备",
+    "pinyin": "bèi",
+    "definition": "prepare, get ready, be equipped with, have"
+  },
+  {
+    "hanzi": "祖国",
+    "pinyin": "zǔguó",
+    "definition": "country, China (used only by Chinese), mother_country, China, old_country, fatherland, home, country of origin, mother country, old country, homeland, native land, motherland, metropolis"
+  },
+  {
+    "hanzi": "寸",
+    "pinyin": "cùn",
+    "definition": "m.[standard]"
+  },
+  {
+    "hanzi": "大选",
+    "pinyin": "dàxuǎn",
+    "definition": "general election"
+  },
+  {
+    "hanzi": "遵循",
+    "pinyin": "zūnxún",
+    "definition": "track, abide by, follow, conform to, adhere to"
+  },
+  {
+    "hanzi": "集",
+    "pinyin": "jí",
+    "definition": "gather, collect"
+  },
+  {
+    "hanzi": "零售",
+    "pinyin": "língshòu",
+    "definition": "retail, (sell) retail"
+  },
+  {
+    "hanzi": "港口",
+    "pinyin": "gǎngkǒu",
+    "definition": "harbour, port, seaport, haven, harbor"
+  },
+  {
+    "hanzi": "压制",
+    "pinyin": "yāzhì",
+    "definition": "suppress, stifle, inhibit, press"
+  },
+  {
+    "hanzi": "疗法",
+    "pinyin": "liáofǎ",
+    "definition": "therapy, cure, treatment, therapeutics"
+  },
+  {
+    "hanzi": "获胜",
+    "pinyin": "huòshèng",
+    "definition": "triumphant, triumph, beat, win victory, be victorious, conquer, gain, prevail, win"
+  },
+  {
+    "hanzi": "新建",
+    "pinyin": "xīnjiàn",
+    "definition": "newly build, just build"
+  },
+  {
+    "hanzi": "压制",
+    "pinyin": "yāzhì",
+    "definition": "suppress, stifle, inhibit, press"
+  },
+  {
+    "hanzi": "农地",
+    "pinyin": "nóngdì",
+    "definition": "farmland, kingdom, ground, earth, farming, realm, solid ground, terra firma, cropland, land, dry land"
+  },
+  {
+    "hanzi": "迁",
+    "pinyin": "qiān",
+    "definition": "movement, change, move"
+  },
+  {
+    "hanzi": "感性",
+    "pinyin": "gǎnxìng",
+    "definition": "sensitive"
+  },
+  {
+    "hanzi": "感性",
+    "pinyin": "gǎnxìng",
+    "definition": "sensitive"
+  },
+  {
+    "hanzi": "黑人",
+    "pinyin": "hēirén",
+    "definition": "black people, nigger, crow, Negroid, black person, dinge, spook, moke, jigaboo, Sambo, darky, Ethiopian, darkie, Negro, boogie, coon, black man, blackamoor, blackie, African, blacky, hoofer, unregistered resident, Black, darkey, black"
+  },
+  {
+    "hanzi": "落在",
+    "pinyin": "luòzài",
+    "definition": "accrue, alight, rest_on, fall, fall on, in"
+  },
+  {
+    "hanzi": "静坐",
+    "pinyin": "jìngzuò",
+    "definition": "sit quietly (as therapy), sit-in"
+  },
+  {
+    "hanzi": "静坐",
+    "pinyin": "jìngzuò",
+    "definition": "sit quietly (as therapy), sit-in"
+  },
+  {
+    "hanzi": "总会",
+    "pinyin": "zǒnghuì",
+    "definition": "headquarters of an association, central administrative body, club, clubhouse"
+  },
+  {
+    "hanzi": "请假",
+    "pinyin": "qǐngjià",
+    "definition": "vacate, ask for leave"
+  },
+  {
+    "hanzi": "美化",
+    "pinyin": "měihuà",
+    "definition": "beautify, embellish"
+  },
+  {
+    "hanzi": "香",
+    "pinyin": "xiāng",
+    "definition": "joss stick"
+  },
+  {
+    "hanzi": "急速",
+    "pinyin": "jísù",
+    "definition": "at high speed, apace, very fast, rapidly"
+  },
+  {
+    "hanzi": "建国",
+    "pinyin": "jiànguó",
+    "definition": "found or build up a state"
+  },
+  {
+    "hanzi": "约定",
+    "pinyin": "yuēdìng",
+    "definition": "agree upon"
+  },
+  {
+    "hanzi": "生机",
+    "pinyin": "shēngjī",
+    "definition": "animation, verdure, vitality, vital_force, viability, life, verve, lease of life, new lease on life"
+  },
+  {
+    "hanzi": "查证",
+    "pinyin": "cházhèng",
+    "definition": "check and verify"
+  },
+  {
+    "hanzi": "荒谬",
+    "pinyin": "huāngmiù",
+    "definition": "absurd, preposterous"
+  },
+  {
+    "hanzi": "约定",
+    "pinyin": "yuēdìng",
+    "definition": "agree upon"
+  },
+  {
+    "hanzi": "家园",
+    "pinyin": "jiāyuán",
+    "definition": "home, homestead, native heath, homestall, homeland"
+  },
+  {
+    "hanzi": "前景",
+    "pinyin": "qiánjǐng",
+    "definition": "outlook, perspective, prospect, expectation, vista, foreground"
+  },
+  {
+    "hanzi": "查证",
+    "pinyin": "cházhèng",
+    "definition": "check and verify"
+  },
+  {
+    "hanzi": "建国",
+    "pinyin": "jiànguó",
+    "definition": "found or build up a state"
+  },
+  {
+    "hanzi": "夜市",
+    "pinyin": "yèshì",
+    "definition": "night market"
+  },
+  {
+    "hanzi": "卓越",
+    "pinyin": "zhuóyuè",
+    "definition": "excel, excel at, brilliant, shine, surpassing, paramount, shine at, outstanding"
+  },
+  {
+    "hanzi": "呎",
+    "pinyin": "chǐ",
+    "definition": "m.[standard]"
+  },
+  {
+    "hanzi": "制裁",
+    "pinyin": "zhìcái",
+    "definition": "sanction, punish"
+  },
+  {
+    "hanzi": "更改",
+    "pinyin": "gēnggǎi",
+    "definition": "change, alter"
+  },
+  {
+    "hanzi": "换上",
+    "pinyin": "huànshàng",
+    "definition": "change"
+  },
+  {
+    "hanzi": "乌托邦",
+    "pinyin": "wūtuōbāng",
+    "definition": "Utopia"
+  },
+  {
+    "hanzi": "罢工",
+    "pinyin": "bàgōng",
+    "definition": "go on strike"
+  },
+  {
+    "hanzi": "瓦解",
+    "pinyin": "wǎjiě",
+    "definition": "disintegrate, collapse"
+  },
+  {
+    "hanzi": "应变",
+    "pinyin": "yìngbiàn",
+    "definition": "meet contingency"
+  },
+  {
+    "hanzi": "影印",
+    "pinyin": "yǐngyìn",
+    "definition": "print by photo-offset, photocopy"
+  },
+  {
+    "hanzi": "影印",
+    "pinyin": "yǐngyìn",
+    "definition": "print by photo-offset, photocopy"
+  },
+  {
+    "hanzi": "穷人",
+    "pinyin": "qióngrén",
+    "definition": "pauper, poor people, prole, poor, poor man, the poor, beggar, have-not"
+  },
+  {
+    "hanzi": "写出",
+    "pinyin": "xiěchū",
+    "definition": "write, draw up"
+  },
+  {
+    "hanzi": "电机",
+    "pinyin": "diànjī",
+    "definition": "electrical machinery"
+  },
+  {
+    "hanzi": "应变",
+    "pinyin": "yìngbiàn",
+    "definition": "meet contingency"
+  },
+  {
+    "hanzi": "剧烈",
+    "pinyin": "jùliè",
+    "definition": "violent, fierce"
+  },
+  {
+    "hanzi": "骆驼",
+    "pinyin": "luòtuó",
+    "definition": "camel"
+  },
+  {
+    "hanzi": "电厂",
+    "pinyin": "diànchǎng",
+    "definition": "power station, station, power plant, power_plant"
+  }
+]
