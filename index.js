@@ -1,7 +1,7 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
-const links = require('./links.json');
+import axios from 'axios';
+import { load } from 'cheerio';
+import fs from 'fs';
+import links from './links.json' assert {type: 'json'};
 
 const contentDir = './out';
 
@@ -13,7 +13,7 @@ const getHanzi = async () => {
 
             const chunk = [];
             const { data } = await axios.get(link);
-            const $ = cheerio.load(data);
+            const $ = load(data);
 
             $('tbody > tr').each((index, el) => {
                 const entry = $('span.Hans > a', el).text();
