@@ -88,5 +88,65 @@
         "hanzi": "信仰",
         "pinyin": "xìnyǎng",
         "definition": "belief"
+    },
+    {
+        "hanzi": "节目",
+        "pinyin": "jiémù",
+        "definition": "item, item (on program), programme, act, telecast, number, program"
+    },
+    {
+        "hanzi": "建设",
+        "pinyin": "jiànshè",
+        "definition": "construction"
+    },
+    {
+        "hanzi": "靠",
+        "pinyin": "kào",
+        "definition": "lean against, keep to, get near, come up to, near, depend/rely on"
+    },
+    {
+        "hanzi": "街头",
+        "pinyin": "jiētóu",
+        "definition": "street corner, street_corner, street (corner), street"
+    },
+    {
+        "hanzi": "宇宙",
+        "pinyin": "yǔzhòu",
+        "definition": "all, cosmic, existence, world, creation, system, macrocosm, metagalactic, nature, cosmos, universal, universe"
+    },
+    {
+        "hanzi": "街",
+        "pinyin": "jiē",
+        "definition": "county fair, fair, place, market, toby, street"
+    },
+    {
+        "hanzi": "爱情",
+        "pinyin": "àiqíng",
+        "definition": "god, warmheartedness, affection, love_affair, heart, kindness, tenderness, bosom, love, fondness, romantic love, affectionateness"
+    },
+    {
+        "hanzi": "固定",
+        "pinyin": "gùdìng",
+        "definition": "set, plant, imbed, fix, strap, jell, fixed, affix, peg, stick, clench, rivet, regularization, rigidify, embed, infix, anchor, fixate, hold, regularize, implant, stitch, stabile, engraft, fasten, immobilize, moor, peg down, flat"
+    },
+    {
+        "hanzi": "男性",
+        "pinyin": "nánxìng",
+        "definition": "brother, male, him, man, male sex, adult male, mankind, masculine, mother's son, masculinity"
+    },
+    {
+        "hanzi": "举",
+        "pinyin": "jǔ",
+        "definition": "lift, raise, hold up, cite, propose"
+    },
+    {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "definition": "to be able, can, will, to meet huì"
+    },
+    {
+        "hanzi": "独特",
+        "pinyin": "dútè",
+        "definition": "special, distinctive, unique"
     }
 ]
