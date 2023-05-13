@@ -148,5 +148,20 @@
         "hanzi": "独特",
         "pinyin": "dútè",
         "definition": "special, distinctive, unique"
+    },
+    {
+        "hanzi": "浪漫",
+        "pinyin": "làngmàn",
+        "definition": "dissolute, debauched, romantic"
+    },
+    {
+        "hanzi": "故宫",
+        "pinyin": "gùgōng",
+        "definition": "former imperial palace, National Palace Museum, Palace Museum"
+    },
+    {
+        "hanzi": "差异",
+        "pinyin": "chāyì",
+        "definition": "gap, departure, spread, variance, divergence, difference, diversity, discrepancy, imparity, disparity, contrast, interval, differentia, distinction"
     }
 ]
