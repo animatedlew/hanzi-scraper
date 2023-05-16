@@ -163,5 +163,15 @@
         "hanzi": "差异",
         "pinyin": "chāyì",
         "definition": "gap, departure, spread, variance, divergence, difference, diversity, discrepancy, imparity, disparity, contrast, interval, differentia, distinction"
+    },
+    {
+        "hanzi": "观点",
+        "pinyin": "guāndiǎn",
+        "definition": "view, aspect, stand, point_of_view, light, eyes, framework, sentiment, bet, standpoint, point of view, eye, viewpoint, slant, perspective, position, angle"
+    },
+    {
+        "hanzi": "潮流",
+        "pinyin": "cháoliú",
+        "definition": "stream, tidal flow, tidal_current, tideway, trend, movement, wind, sea, fashion, tide, tidal current"
     }
 ]
